@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Klub krótkofalowców SP6PWS.pl - Członkowie</title>
+		<description><![CDATA[SP6PWS, HF6K, SN6G, SN6E klub krótkofalarski wrocław, krótkofalarstwo wrocław, krótkofalowcy, ham, yagi, projekty anten, kurs krótkofalarski, PZK, egzamin krótkofalarski, polski związek krótkofalowców]]></description>
+		<link>https://www.sp6pws.pl/czlonkowie</link>
+		<lastBuildDate>Sat, 21 May 2022 16:08:03 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.sp6pws.pl/czlonkowie?format=feed&amp;type=rss"/>
+		<language>pl-pl</language>
+		<managingEditor>webmaster@sp6pws.pl (webmaster@sp6pws.pl)</managingEditor>
+		<item>
+			<title>Członkowie klubu SP6PWS</title>
+			<link>https://www.sp6pws.pl/czlonkowie/2-czlonkowie</link>
+			<guid isPermaLink="true">https://www.sp6pws.pl/czlonkowie/2-czlonkowie</guid>
+			<description><![CDATA[<table style="margin-left: auto; margin-right: auto; width: 261px; height: 345px;" cellpadding="0"><colgroup><col span="3" style="width: 54pt;" width="72" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl64" style="height: 15pt; width: 54pt; text-align: justify;" width="72" height="20">Lp.</td>
+<td class="xl64" style="width: 54pt; text-align: justify;" width="72">Znak</td>
+<td class="xl64" style="width: 54pt; text-align: justify;" width="72">Imie</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">1</td>
+<td class="xl63" style="width: 54pt;" width="72">SP6BLA</td>
+<td class="xl63" style="width: 54pt;" width="72">Michał</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">2</td>
+<td class="xl63" style="width: 54pt;" width="72">SP6ELT</td>
+<td class="xl63" style="width: 54pt;" width="72">Ewelina</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">3</td>
+<td class="xl63" style="width: 54pt;" width="72">SP6MI</td>
+<td class="xl63" style="width: 54pt;" width="72">Marcin</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">4</td>
+<td class="xl63" style="width: 54pt;" width="72">SQ6ARN</td>
+<td class="xl63" style="width: 54pt;" width="72">Hubert</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">5</td>
+<td class="xl63" style="width: 54pt;" width="72">SQ6RKP</td>
+<td class="xl63" style="width: 54pt;" width="72">Grzegorz</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">6</td>
+<td class="xl63" style="width: 54pt;" width="72">SQ6PNP</td>
+<td class="xl63" style="width: 54pt;" width="72">Rafał</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">7</td>
+<td class="xl63" style="width: 54pt;" width="72">SQ6POL</td>
+<td class="xl63" style="width: 54pt;" width="72">Marcin</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">8</td>
+<td class="xl63" style="width: 54pt;" width="72">SP6FCS</td>
+<td class="xl63" style="width: 54pt;" width="72">Jarek</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">9</td>
+<td class="xl63" style="width: 54pt;" width="72">SP6HFE</td>
+<td class="xl63" style="width: 54pt;" width="72">Grzegorz</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl63" style="height: 14.25pt; width: 54pt;" width="72" height="19">10</td>
+<td class="xl63" style="width: 54pt;" width="72">SP6MR</td>
+<td class="xl63" style="width: 54pt;" width="72">Michał</td>
+</tr>
+</tbody>
+</table>]]></description>
+			<author>mt.gajek@gmail.com (Super User)</author>
+			<category>Czlonkowie</category>
+			<pubDate>Wed, 28 Nov 2012 21:20:11 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

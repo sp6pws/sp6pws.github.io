@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Klub krótkofalowców SP6PWS.pl - Zawody</title>
+	<subtitle type="text">SP6PWS, HF6K, SN6G, SN6E klub krótkofalarski wrocław, krótkofalarstwo wrocław, krótkofalowcy, ham, yagi, projekty anten, kurs krótkofalarski, PZK, egzamin krótkofalarski, polski związek krótkofalowców</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.sp6pws.pl"/>
+	<id>https://www.sp6pws.pl/zawody</id>
+	<updated>2022-05-21T16:08:02+02:00</updated>
+	<author>
+		<name>webmaster@sp6pws.pl</name>
+		<email>webmaster@sp6pws.pl</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.sp6pws.pl/zawody?format=feed&amp;type=atom"/>
+	<entry>
+		<title>SPDX Contest 2018 już za nami.</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/99-spdxcontest-juz-za-nami"/>
+		<published>2018-04-08T21:53:28+02:00</published>
+		<updated>2018-04-08T21:53:28+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/99-spdxcontest-juz-za-nami</id>
+		<author>
+			<name>Marcin, SP6MI</name>
+			<email>sp6mi@protonmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Już jesteśmy po zawodach. Nie było łatwo, niby tylko 24 godzinne zawody, ustalony grafik zmian, ale i tak zmęczenie dopadło każdego z nas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Same tegoroczne zawody SPDX Contest 2018 były bardzo specyficzne jeśli chodzi o propagację. Wyjątkowo pasma powyżej 14MHz były praktycznie nieużyteczne dla fonii. Jedynie co, to mogliśmy walczyć z kiepską propagacją na pasmach 80, 40 i 20m. Oczywiście nie obyło się bez kłopot&amp;oacute;w natury technicznej, jakieś gryzonie poprzegryzały nam fidery i trzeba było na bieżąco łatać ubytki w okablowaniu stacji. Nowy dipol też nagle odm&amp;oacute;wił posłuszeństwa i p&amp;oacute;źnym wieczorem trzeba było go ściągać z masztu i szybko naprawiać. Całe szczęście nie brakuje u nas złotych rączek i szybko udało się przywr&amp;oacute;cić sprawność antenom.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Nowością podczas tych zawod&amp;oacute;w były pierwsze kroki w CW, jeszcze wspomagani technologią ale &quot;pierwsze koty za płoty&quot;. Dało nam to cenną lekcję, że na tego typu zawodach i przy kiepskiej propagacji tylko połączenie fonii i telegrafii może uratować wynik.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Jak to zwykle bywa po zawodach, lada dzień wyślemy nasz log do organizator&amp;oacute;w i będziemy cierpliwie czekać na ogłoszenie wynik&amp;oacute;w.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;PS. Jeszcze raz dziękujemy wszystkim, bez kt&amp;oacute;rych nie moglibyśmy wystartować w tych zawodach, tym kt&amp;oacute;rzy czynnie uczestniczyli w pracy klubowej radiostacji SP6PWS. Ogromne podziękowania należą się r&amp;oacute;wnież Arkowi&amp;nbsp;SQ6OET za użyczenie PA.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Już jesteśmy po zawodach. Nie było łatwo, niby tylko 24 godzinne zawody, ustalony grafik zmian, ale i tak zmęczenie dopadło każdego z nas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Same tegoroczne zawody SPDX Contest 2018 były bardzo specyficzne jeśli chodzi o propagację. Wyjątkowo pasma powyżej 14MHz były praktycznie nieużyteczne dla fonii. Jedynie co, to mogliśmy walczyć z kiepską propagacją na pasmach 80, 40 i 20m. Oczywiście nie obyło się bez kłopot&amp;oacute;w natury technicznej, jakieś gryzonie poprzegryzały nam fidery i trzeba było na bieżąco łatać ubytki w okablowaniu stacji. Nowy dipol też nagle odm&amp;oacute;wił posłuszeństwa i p&amp;oacute;źnym wieczorem trzeba było go ściągać z masztu i szybko naprawiać. Całe szczęście nie brakuje u nas złotych rączek i szybko udało się przywr&amp;oacute;cić sprawność antenom.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Nowością podczas tych zawod&amp;oacute;w były pierwsze kroki w CW, jeszcze wspomagani technologią ale &quot;pierwsze koty za płoty&quot;. Dało nam to cenną lekcję, że na tego typu zawodach i przy kiepskiej propagacji tylko połączenie fonii i telegrafii może uratować wynik.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Jak to zwykle bywa po zawodach, lada dzień wyślemy nasz log do organizator&amp;oacute;w i będziemy cierpliwie czekać na ogłoszenie wynik&amp;oacute;w.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;PS. Jeszcze raz dziękujemy wszystkim, bez kt&amp;oacute;rych nie moglibyśmy wystartować w tych zawodach, tym kt&amp;oacute;rzy czynnie uczestniczyli w pracy klubowej radiostacji SP6PWS. Ogromne podziękowania należą się r&amp;oacute;wnież Arkowi&amp;nbsp;SQ6OET za użyczenie PA.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>CQWW DX Contest 2017 - są wyniki!</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/98-cqww-dx-contest-2017-wyniki"/>
+		<published>2018-04-04T21:05:58+02:00</published>
+		<updated>2018-04-04T21:05:58+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/98-cqww-dx-contest-2017-wyniki</id>
+		<author>
+			<name>Marcin, SP6MI</name>
+			<email>sp6mi@protonmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Po długich miesiącach oczekiwania nareszcie pojawiły się końcowe wyniki zawod&amp;oacute;w CQWW DX Contest 2017.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;W dużym skr&amp;oacute;cie można powiedzieć, że udało sie osiągnąć sukces. Ostateczna klasyfikacja podaje, że: w ciągu 44 godzin pracy stacji w kategorii MULTI-ONE LP zalogowaliśmy 624 QSO, z 54 strefami i 182 krajami co dało ostatecznie 193,112 punkt&amp;oacute;w.&lt;/p&gt;
+&lt;p&gt;Wynik ten dał nam w naszej kategorii &lt;strong&gt;2&lt;/strong&gt; miejsce wśr&amp;oacute;d stacji polskich, w europie&amp;nbsp;&lt;strong&gt;25&lt;/strong&gt;, a na świecie&amp;nbsp;&lt;strong&gt;42&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Serdecznie podziękowania i gratulacje dla wszystkich operator&amp;oacute;w, kt&amp;oacute;rzy przyczynili się do tego sukcesu:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;SP6ELT, SQ6PNP, SQ6POL, SP6BLA, SP6MI, SQ6UTK, SQ6ARN, SP6TNA, SQ6GIT, SQ6OXK, SQ6IJL&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.sp6pws.pl/images/HF6K_CQWW_2017_SSB_certificate.jpg&quot; alt=&quot;HF6K_CQWW_2017_SSB_certificate3&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Po długich miesiącach oczekiwania nareszcie pojawiły się końcowe wyniki zawod&amp;oacute;w CQWW DX Contest 2017.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;W dużym skr&amp;oacute;cie można powiedzieć, że udało sie osiągnąć sukces. Ostateczna klasyfikacja podaje, że: w ciągu 44 godzin pracy stacji w kategorii MULTI-ONE LP zalogowaliśmy 624 QSO, z 54 strefami i 182 krajami co dało ostatecznie 193,112 punkt&amp;oacute;w.&lt;/p&gt;
+&lt;p&gt;Wynik ten dał nam w naszej kategorii &lt;strong&gt;2&lt;/strong&gt; miejsce wśr&amp;oacute;d stacji polskich, w europie&amp;nbsp;&lt;strong&gt;25&lt;/strong&gt;, a na świecie&amp;nbsp;&lt;strong&gt;42&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Serdecznie podziękowania i gratulacje dla wszystkich operator&amp;oacute;w, kt&amp;oacute;rzy przyczynili się do tego sukcesu:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;SP6ELT, SQ6PNP, SQ6POL, SP6BLA, SP6MI, SQ6UTK, SQ6ARN, SP6TNA, SQ6GIT, SQ6OXK, SQ6IJL&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.sp6pws.pl/images/HF6K_CQWW_2017_SSB_certificate.jpg&quot; alt=&quot;HF6K_CQWW_2017_SSB_certificate3&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SPDX Contest 2018</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/97-spdxcontest-2018"/>
+		<published>2018-03-30T09:01:15+02:00</published>
+		<updated>2018-03-30T09:01:15+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/97-spdxcontest-2018</id>
+		<author>
+			<name>Marcin, SP6MI</name>
+			<email>sp6mi@protonmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;7-go kwietnia o godzinie 17:00 czasu lokalnego (15:00 UTC) startujemy w&amp;nbsp;&lt;a href=&quot;https://spdxcontest-2018.pzk.org.pl/2018/&quot;&gt;SPDXContest&lt;/a&gt;. Największe polskie zawody kr&amp;oacute;kofalarskie będą doskonałą okazją do przetestowania w boju naszych nowych anten.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;7-go kwietnia o godzinie 17:00 czasu lokalnego (15:00 UTC) startujemy w&amp;nbsp;&lt;a href=&quot;https://spdxcontest-2018.pzk.org.pl/2018/&quot;&gt;SPDXContest&lt;/a&gt;. Największe polskie zawody kr&amp;oacute;kofalarskie będą doskonałą okazją do przetestowania w boju naszych nowych anten.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>Zawody krótkofalarskie o „PUCHAR” BURMISTRZA MIASTA JAROSŁAWIA</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/93-zawody-krotkofalarskie-o-puchar-burmistrza-miasta-jaroslawia"/>
+		<published>2018-03-09T18:52:42+01:00</published>
+		<updated>2018-03-09T18:52:42+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/93-zawody-krotkofalarskie-o-puchar-burmistrza-miasta-jaroslawia</id>
+		<author>
+			<name>Marcin, SP6MI</name>
+			<email>sp6mi@protonmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Już w tą niedzielę 11 marca 2018, w godzinach porannych klub wystawi swoją reprezentację na Zawody Kr&amp;oacute;tkofalarskie o PUCHAR BURMISTRZA MIASTA JAROSŁAWIA. Startujemy o 6:00UTC, zawody kończą się godzinę p&amp;oacute;źniej. Zabawa w paśmie 80m. Startujemy oczywiście w paśmie fonicznym.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Przy okazji, jak się uda to przetestujemy pełnowymiarowego dipola na 80m.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;------&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;----&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Zawody już za nami. Udało się przeprowadzic 24 łączności, wynik przyzwoity, chociaż celowaliśmy znacznie wyżej. Ruch na paśmie był całkiem spory, pracowało około 50 stacji (tak można było wywnioskować z ostatnich raport&amp;oacute;w jakie udało nam się usłyszeć/zdobyć). Teraz nie pozostaje nic innego jak wysłać zapis przeprowadzonych łączności do organizaotra i czekać na oficjalne wyniki.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Już w tą niedzielę 11 marca 2018, w godzinach porannych klub wystawi swoją reprezentację na Zawody Kr&amp;oacute;tkofalarskie o PUCHAR BURMISTRZA MIASTA JAROSŁAWIA. Startujemy o 6:00UTC, zawody kończą się godzinę p&amp;oacute;źniej. Zabawa w paśmie 80m. Startujemy oczywiście w paśmie fonicznym.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Przy okazji, jak się uda to przetestujemy pełnowymiarowego dipola na 80m.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;------&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;----&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;-----&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Zawody już za nami. Udało się przeprowadzic 24 łączności, wynik przyzwoity, chociaż celowaliśmy znacznie wyżej. Ruch na paśmie był całkiem spory, pracowało około 50 stacji (tak można było wywnioskować z ostatnich raport&amp;oacute;w jakie udało nam się usłyszeć/zdobyć). Teraz nie pozostaje nic innego jak wysłać zapis przeprowadzonych łączności do organizaotra i czekać na oficjalne wyniki.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>CQ World Wide 2017</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/88-cqww-2017"/>
+		<published>2017-10-31T13:10:12+01:00</published>
+		<updated>2017-10-31T13:10:12+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/88-cqww-2017</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;28. października 2017 od godziny 0:00 UTC wystartowalismy w zawodach CQ WW 2017. Pracowaliśy na stacji 44&amp;nbsp;godziny spod znaku klubowego HF6K.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Operatorami stacji byli:&lt;br /&gt;SP6MI, SQ6PNP, SP6BLA, SQ6UTK, SQ6POL, SQ6ARN, SQ6ELT, SP6TNA, SQ6GIT, SQ6OXK, SQ6ILJ.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Diękujemy wszystkim za spotkanie w eterze i tym, kt&amp;oacute;rzy odwiedzili nas osobiście.&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSP6PWS%2Fvideos%2F1113934382071533%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/logs/2017/2017-HF6K-CQWW.txt&quot; target=&quot;_blank&quot;&gt;Log naszej stacji&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;p style=&quot;text-align: right;&quot;&gt;HF6K&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;28. października 2017 od godziny 0:00 UTC wystartowalismy w zawodach CQ WW 2017. Pracowaliśy na stacji 44&amp;nbsp;godziny spod znaku klubowego HF6K.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Operatorami stacji byli:&lt;br /&gt;SP6MI, SQ6PNP, SP6BLA, SQ6UTK, SQ6POL, SQ6ARN, SQ6ELT, SP6TNA, SQ6GIT, SQ6OXK, SQ6ILJ.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Diękujemy wszystkim za spotkanie w eterze i tym, kt&amp;oacute;rzy odwiedzili nas osobiście.&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSP6PWS%2Fvideos%2F1113934382071533%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/logs/2017/2017-HF6K-CQWW.txt&quot; target=&quot;_blank&quot;&gt;Log naszej stacji&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;p style=&quot;text-align: right;&quot;&gt;HF6K&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP DX Contest 2014</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/73-sp-dx-contest-2014"/>
+		<published>2014-04-07T22:10:47+02:00</published>
+		<updated>2014-04-07T22:10:47+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/73-sp-dx-contest-2014</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;To była jedna doba, całe 24 godziny licząc od 5 kwietnia 2014 od godziny 15 UTC do niedzieli 6 kwietnia. Wystartowaliśmy w SP DX Contescie po raz drugi - pod naszym znakiem contestowym HF6K, którego operatorami byli: SQ6KOJ, SQ6OWA, SQ6OXK, SQ6PNP, SQ6POL i SQ9RXH. Tym razem chyba z większym spokojem niż poprzednio, ale równie zdetermnowani aby osiagnać jak najlepszy wynik, pomimo słabych warunków antenowych. Jedynie nasza Yagi na 21 MHz mogła coś powalczyć, bo reszta systemu antenowego przy mocy, którą w tych zawodach można nazwać QRP, szczególnie w kategorii MOAB MIXED - jedynie 100W - była niewystarczająca. Pracowaliśmy na stacji około 19 godzin i udało nam się zrobić 301 QSO. W naszym odczuciu warunki nie były zbyt sprzyjające, no ale takie właśnie jest krótkofalarstwo, że się mierzymy się z tym co natura nam daje. Wszystkim dziękujemy za spotkanie na pasamach i do następnego SPDXC :)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/logs/2014/2014-HF6K-SPDXC.txt&quot; target=&quot;_blank&quot;&gt;Log naszej stacji&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;HF6K&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;To była jedna doba, całe 24 godziny licząc od 5 kwietnia 2014 od godziny 15 UTC do niedzieli 6 kwietnia. Wystartowaliśmy w SP DX Contescie po raz drugi - pod naszym znakiem contestowym HF6K, którego operatorami byli: SQ6KOJ, SQ6OWA, SQ6OXK, SQ6PNP, SQ6POL i SQ9RXH. Tym razem chyba z większym spokojem niż poprzednio, ale równie zdetermnowani aby osiagnać jak najlepszy wynik, pomimo słabych warunków antenowych. Jedynie nasza Yagi na 21 MHz mogła coś powalczyć, bo reszta systemu antenowego przy mocy, którą w tych zawodach można nazwać QRP, szczególnie w kategorii MOAB MIXED - jedynie 100W - była niewystarczająca. Pracowaliśmy na stacji około 19 godzin i udało nam się zrobić 301 QSO. W naszym odczuciu warunki nie były zbyt sprzyjające, no ale takie właśnie jest krótkofalarstwo, że się mierzymy się z tym co natura nam daje. Wszystkim dziękujemy za spotkanie na pasamach i do następnego SPDXC :)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/logs/2014/2014-HF6K-SPDXC.txt&quot; target=&quot;_blank&quot;&gt;Log naszej stacji&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;HF6K&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>Zawody &quot;NARODOWE ŚWIĘTO NIEPODLEGŁOŚCI” (NŚN) 2013</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/69-zawody-narodowe-swieto-niepodleglosci-nsn"/>
+		<published>2013-11-20T10:15:52+01:00</published>
+		<updated>2013-11-20T10:15:52+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/69-zawody-narodowe-swieto-niepodleglosci-nsn</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Dnia 11 listopada 2013 klub SP6PWS wziął udział w zawodach krótkofalarskich z okazji Narodowego Święta Niepodległości w paśmie 80m pod znakiem HF6K. Były to zawody szczególnie ważne dla nas, ze względu na chęć upamiętnienia odzyskania w 1918 roku niepodległości&amp;nbsp;przez Naród Polski. Zawody rozpoczęły się o godzinie 5 UTC i&amp;nbsp;trwały dwie godziny. My wystartowaliśmy z lekkim opóźnieniem, ponieważ mieliśmy małe problemy techniczne, które jednak&amp;nbsp;nie&amp;nbsp;zniechęciły nas do startu w zawodach. Po rozwiązaniu problemu natychmiast przystąpiliśmy do&amp;nbsp;pracy, która była dla nas również świetną zabawa!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sp6pws.pl/images/eDyplom-NSN_2013.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/eDyplom-NSN_2013.jpg&quot; alt=&quot;DyplomNSN_2013&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_NSN_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów &lt;span&gt;„NARODOWE ŚWIĘTO NIEPODLEGŁOŚCI 2013&lt;/span&gt;&quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;73! SQ9RHX, SQ9UFC&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Dnia 11 listopada 2013 klub SP6PWS wziął udział w zawodach krótkofalarskich z okazji Narodowego Święta Niepodległości w paśmie 80m pod znakiem HF6K. Były to zawody szczególnie ważne dla nas, ze względu na chęć upamiętnienia odzyskania w 1918 roku niepodległości&amp;nbsp;przez Naród Polski. Zawody rozpoczęły się o godzinie 5 UTC i&amp;nbsp;trwały dwie godziny. My wystartowaliśmy z lekkim opóźnieniem, ponieważ mieliśmy małe problemy techniczne, które jednak&amp;nbsp;nie&amp;nbsp;zniechęciły nas do startu w zawodach. Po rozwiązaniu problemu natychmiast przystąpiliśmy do&amp;nbsp;pracy, która była dla nas również świetną zabawa!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sp6pws.pl/images/eDyplom-NSN_2013.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/eDyplom-NSN_2013.jpg&quot; alt=&quot;DyplomNSN_2013&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_NSN_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów &lt;span&gt;„NARODOWE ŚWIĘTO NIEPODLEGŁOŚCI 2013&lt;/span&gt;&quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;73! SQ9RHX, SQ9UFC&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w DARC 10-Meter Digital Contest </title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/67-sp6pws-w-darc-10-meter-digital-contest"/>
+		<published>2013-11-04T18:02:29+01:00</published>
+		<updated>2013-11-04T18:02:29+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/67-sp6pws-w-darc-10-meter-digital-contest</id>
+		<author>
+			<name>Rafał, SQ6PNP</name>
+			<email>sq6pnp@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Stali czytelnicy naszej witryny zdążyli się juz przyzwyczaić, że zawody krótkofalarskie to bardzo ważna scieżka, którą podążają klubowicze SP6PWS. Tym razem niemiecki odpowiednik PZK - DARC zorganizował dość ciekawe zawody w&amp;nbsp;emisjach cyfrowych.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/DARC-10-m-DIGITAL-Contest-%28Corona%29-2013.pdf&quot; target=&quot;_blank&quot;&gt;DARC 10-Meter Digital Contest 2013&lt;/a&gt;, bo o tych zawodach mowa to dobra propozycja dla osób lubiących różne emisje cyfrowe. W tym współzawodnictwie odbywającym sie tylko w paśmie 10-cio metrowym można było pracować pięcioma emisjami:&amp;nbsp;&lt;span style=&quot;font-family: Myriad-Roman, sans-serif; font-size: 12px;&quot;&gt;RTTY, AMTOR, CLOVER, PACTOR oraz PSK31.&amp;nbsp;&lt;/span&gt;Organizator zaplanował na to 6 godzin niedzielnego popołudnia: od godziny 11 do 17 czasu UTC.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Klubowa antena pionowa GP7 spisała się wzorowo, a doskonałe warunki propagacyjne pozwoliły nawiązać łączności z&amp;nbsp;dużą ilością stacji DX z USA i Kanady.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;W tym krótkim komunikacie pragniemy również poinformować, że zawody te okazały się być dla SP6PWS pewnym symbolem. Były to ostatnie zawody w których klub SP6PWS startował pod swoim tradycyjnym znakiem. W każdym kolejnym conteście klub nasz będzie reprezentowany specjalnym znakiem HF6K wydanym dla nas do pracy w&amp;nbsp;zawodach.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;HF6K ;)&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Stali czytelnicy naszej witryny zdążyli się juz przyzwyczaić, że zawody krótkofalarskie to bardzo ważna scieżka, którą podążają klubowicze SP6PWS. Tym razem niemiecki odpowiednik PZK - DARC zorganizował dość ciekawe zawody w&amp;nbsp;emisjach cyfrowych.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/DARC-10-m-DIGITAL-Contest-%28Corona%29-2013.pdf&quot; target=&quot;_blank&quot;&gt;DARC 10-Meter Digital Contest 2013&lt;/a&gt;, bo o tych zawodach mowa to dobra propozycja dla osób lubiących różne emisje cyfrowe. W tym współzawodnictwie odbywającym sie tylko w paśmie 10-cio metrowym można było pracować pięcioma emisjami:&amp;nbsp;&lt;span style=&quot;font-family: Myriad-Roman, sans-serif; font-size: 12px;&quot;&gt;RTTY, AMTOR, CLOVER, PACTOR oraz PSK31.&amp;nbsp;&lt;/span&gt;Organizator zaplanował na to 6 godzin niedzielnego popołudnia: od godziny 11 do 17 czasu UTC.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Klubowa antena pionowa GP7 spisała się wzorowo, a doskonałe warunki propagacyjne pozwoliły nawiązać łączności z&amp;nbsp;dużą ilością stacji DX z USA i Kanady.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;W tym krótkim komunikacie pragniemy również poinformować, że zawody te okazały się być dla SP6PWS pewnym symbolem. Były to ostatnie zawody w których klub SP6PWS startował pod swoim tradycyjnym znakiem. W każdym kolejnym conteście klub nasz będzie reprezentowany specjalnym znakiem HF6K wydanym dla nas do pracy w&amp;nbsp;zawodach.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;HF6K ;)&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>Maraton Krótkofalarski z okazji „Dnia Edukacji Narodowej”</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/65-maraton-krotkofalarski-z-okazji-dnia-edukacji-narodowej"/>
+		<published>2013-11-03T23:34:16+01:00</published>
+		<updated>2013-11-03T23:34:16+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/65-maraton-krotkofalarski-z-okazji-dnia-edukacji-narodowej</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;W dniach 4. i 5. października 2013 wystartowaliśmy w zawodach, a może raczej w &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/Maraton_Krotkofalarski_z_okazji_Dnia_Edukacji_Narodowej.pdf&quot; target=&quot;_blank&quot;&gt;Maratonie Krótkofalarskim, który został zorganizowany z okazji „Dnia Edukacji Narodowej”&lt;/a&gt;. Zawody o tyle ciekawe, że odbyły sie w dwóch turach: Pierwsza rozpoczęła się w piątek 4.10.2013 – od 16:00 do 20:00 czasu lokalnego (14:00 – 18:00 UTC), a druga następnego dnia rano - 5.10.2013 od 7:00 do 10:00 czasu lokalnego (5:00 – 8:00 UTC). W sobotę rano jednocześnie wystartowaliśmy w &lt;a href=&quot;https://www.sp6pws.pl//62-5-th-russian-epc-contest-2013&quot; target=&quot;_blank&quot;&gt;rosyjskiej edycji EPC PSK63&lt;/a&gt;. W czasie tych zawodów udało nam się nawiązać 42 QSO i&amp;nbsp;zajęliśmy 4. miejsce w grupie D – czyli Radiostacje Klubowe. O włos za pudłem, no ale taki jest sport.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyn_Maratonu_Kuratora_2013_r.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki Maratonu Krótkofalarskiego z okazji „Dnia Edukacji Narodowej”&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;W dniach 4. i 5. października 2013 wystartowaliśmy w zawodach, a może raczej w &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/Maraton_Krotkofalarski_z_okazji_Dnia_Edukacji_Narodowej.pdf&quot; target=&quot;_blank&quot;&gt;Maratonie Krótkofalarskim, który został zorganizowany z okazji „Dnia Edukacji Narodowej”&lt;/a&gt;. Zawody o tyle ciekawe, że odbyły sie w dwóch turach: Pierwsza rozpoczęła się w piątek 4.10.2013 – od 16:00 do 20:00 czasu lokalnego (14:00 – 18:00 UTC), a druga następnego dnia rano - 5.10.2013 od 7:00 do 10:00 czasu lokalnego (5:00 – 8:00 UTC). W sobotę rano jednocześnie wystartowaliśmy w &lt;a href=&quot;https://www.sp6pws.pl//62-5-th-russian-epc-contest-2013&quot; target=&quot;_blank&quot;&gt;rosyjskiej edycji EPC PSK63&lt;/a&gt;. W czasie tych zawodów udało nam się nawiązać 42 QSO i&amp;nbsp;zajęliśmy 4. miejsce w grupie D – czyli Radiostacje Klubowe. O włos za pudłem, no ale taki jest sport.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyn_Maratonu_Kuratora_2013_r.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki Maratonu Krótkofalarskiego z okazji „Dnia Edukacji Narodowej”&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>Polska WW BPSK 63 Contest 2013</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/63-polska-ww-bpsk-63-contest-2013"/>
+		<published>2013-11-03T19:12:16+01:00</published>
+		<updated>2013-11-03T19:12:16+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/63-polska-ww-bpsk-63-contest-2013</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Zachęceni wynikiem zawodów rosyjskiej wersji EPC 12 października 2013 o godzinie 14 UTC wystartowaliśmy w&amp;nbsp;polskiej edycji zawodów &quot;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/Polska_WW_BPSK_63_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Polska WW BPSK 63 Contest 2013&lt;/a&gt;&quot;. Po 24 godzinach mieliśmy zalogowane 282 łączności z&amp;nbsp;czego zaliczono nam 239. Uzyskany rezulatat po przeliczeniu dał 468 punktów i trzecie miejsce w kategorii.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/SP_EPC_3rd_place.jpg&quot; alt=&quot;SP6PWS 3rd. place in SP EPC Contest 2013 MOAB&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_Polska_WW_BPSK_63_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów Polska WW BPSK 63 Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Zachęceni wynikiem zawodów rosyjskiej wersji EPC 12 października 2013 o godzinie 14 UTC wystartowaliśmy w&amp;nbsp;polskiej edycji zawodów &quot;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/Polska_WW_BPSK_63_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Polska WW BPSK 63 Contest 2013&lt;/a&gt;&quot;. Po 24 godzinach mieliśmy zalogowane 282 łączności z&amp;nbsp;czego zaliczono nam 239. Uzyskany rezulatat po przeliczeniu dał 468 punktów i trzecie miejsce w kategorii.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/SP_EPC_3rd_place.jpg&quot; alt=&quot;SP6PWS 3rd. place in SP EPC Contest 2013 MOAB&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_Polska_WW_BPSK_63_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów Polska WW BPSK 63 Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>5-th Russian EPC Contest 2013</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/62-5-th-russian-epc-contest-2013"/>
+		<published>2013-10-27T23:15:31+01:00</published>
+		<updated>2013-10-27T23:15:31+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/62-5-th-russian-epc-contest-2013</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;5. października 2013 o godzinie 4:00 UTC rozpoczął się start naszego klubu w piątej edycji zawodów &quot;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/EPC_Russia_2013.pdf&quot; target=&quot;_blank&quot;&gt;5-th&amp;nbsp;Russian&amp;nbsp;EPC&amp;nbsp;Contest&amp;nbsp;2013&lt;/a&gt;&quot;. Wystartowaliśmy w kategorii MultiOperatorAllBand (MOAB). Po 24 godzinach pracy emisją PSK63 w&amp;nbsp;naszym logu znalazło się 469 QSO z czego - jak się później okazało - zaliczono nam 438 łączności i&amp;nbsp;ostateczne 667348 punktów co dało nam pierwsze miejsce w kategorii :)&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/1st_place_Russian_EPC_Contest_2013_MOAB.jpg&quot; alt=&quot;SP6PWS 1st. place in Russian EPC Contest 2013 MOAB&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;5. października 2013 o godzinie 4:00 UTC rozpoczął się start naszego klubu w piątej edycji zawodów &quot;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/EPC_Russia_2013.pdf&quot; target=&quot;_blank&quot;&gt;5-th&amp;nbsp;Russian&amp;nbsp;EPC&amp;nbsp;Contest&amp;nbsp;2013&lt;/a&gt;&quot;. Wystartowaliśmy w kategorii MultiOperatorAllBand (MOAB). Po 24 godzinach pracy emisją PSK63 w&amp;nbsp;naszym logu znalazło się 469 QSO z czego - jak się później okazało - zaliczono nam 438 łączności i&amp;nbsp;ostateczne 667348 punktów co dało nam pierwsze miejsce w kategorii :)&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/1st_place_Russian_EPC_Contest_2013_MOAB.jpg&quot; alt=&quot;SP6PWS 1st. place in Russian EPC Contest 2013 MOAB&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w zawodach...</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/61-sp6pws-w-zawodach"/>
+		<published>2013-10-15T20:10:59+02:00</published>
+		<updated>2013-10-15T20:10:59+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/61-sp6pws-w-zawodach</id>
+		<author>
+			<name>Rafał, SQ6PNP</name>
+			<email>sq6pnp@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Po leniwej wakacyjnej przerwie i po pierwszym inaugurującym sezon jesienno-zimowy spotkaniu zesp&amp;oacute;ł SP6PWS powr&amp;oacute;cił do pracy w zawodach kr&amp;oacute;tkofalarskich. Zaczęliśmy od &quot;&lt;a href=&quot;https://www.sp6pws.pl/56&quot; target=&quot;_blank&quot;&gt;XI SP QRP Contest&lt;/a&gt;&quot; (4, 5 października 2013) w&amp;nbsp;paśmie 80m, gdzie&amp;nbsp;wypr&amp;oacute;bowaliśmy nową klubową antenę przeznaczoną do contestingu krajowego na&amp;nbsp;tym&amp;nbsp;paśmie.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Pewną nowością - dzięki Pawłowi SQ6OXK - był start w pierwszych dla SP6PWS&amp;nbsp;zawodach w emisjach cyfrowych. Zaczęlismy ambitnie, bo od 5-tych mistrzostw Rosji &quot;&lt;a href=&quot;https://www.sp6pws.pl/62&quot; target=&quot;_blank&quot;&gt;5-th Russian EPC Contest 2013&lt;/a&gt;&quot; kt&amp;oacute;re zaczęły się 6&amp;nbsp;października 2013 o 4 UTC, gdzie przyjęliśmy strategię MiltiOperatorAllBand. Były to 24 godziny wytężonej pracy - uczenia się&amp;nbsp;nowego oprogramowania i specyfiki zawod&amp;oacute;w przy pracy emisjami cyfrowymi.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;W tym samym czasie wystartowaliśmy w &lt;a href=&quot;https://www.sp6pws.pl/65&quot; target=&quot;_blank&quot;&gt;Maratonie Jarosławskim z okazji Dnia Edukacji Narodowej&lt;/a&gt;. Były to 4 godziny zawodniczej pracy w piątek wieczorem i 3 godziny w sobotę rano. Całość w paśmie 80m.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Tydzień p&amp;oacute;źniej - bo od 14 UTC, 12 października 2013&amp;nbsp;- kolejne zawody pod patronatem European PSK Club, tym&amp;nbsp;razem nasze rodzime &quot;&lt;a href=&quot;https://www.sp6pws.pl/63&quot; target=&quot;_blank&quot;&gt;SP EPC Contest 2013&lt;/a&gt;&quot; - nie mogło nas tam zabraknąć. Kolejne zawody i po raz kolejny nasza ulubiona kategoria: MULTI OPERATOR! I tu zn&amp;oacute;w 24 godziny &quot;piszczenia&quot;, aż kładąc się spać w zaciszach domowych pieleszy słychac było w głowie &quot;fantomowe&quot; tony wywołania og&amp;oacute;lnego w BPSK63.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Aktualnie ekpia szykuje się do największych światowych zawod&amp;oacute;w CQ WW w emisji SSB oraz kilku mniejszych, krajowych. Stawiamy nowe anteny, przebudowujemy obecnie używane, aby były jeszcze lepsze.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Zapraszamy klubowicz&amp;oacute;w na &lt;a href=&quot;http://www.forum.sp6pws.pl/&quot; target=&quot;_blank&quot;&gt;forum&lt;/a&gt;, gdzie w kategorii ZAWODY, można poczytać co nieco o wszystkich eventach w&amp;nbsp;kt&amp;oacute;rych bierzemy udział, a także zapropnować udział swojej osboby w wybranych zawodach.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;73! VY de SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Po leniwej wakacyjnej przerwie i po pierwszym inaugurującym sezon jesienno-zimowy spotkaniu zesp&amp;oacute;ł SP6PWS powr&amp;oacute;cił do pracy w zawodach kr&amp;oacute;tkofalarskich. Zaczęliśmy od &quot;&lt;a href=&quot;https://www.sp6pws.pl/56&quot; target=&quot;_blank&quot;&gt;XI SP QRP Contest&lt;/a&gt;&quot; (4, 5 października 2013) w&amp;nbsp;paśmie 80m, gdzie&amp;nbsp;wypr&amp;oacute;bowaliśmy nową klubową antenę przeznaczoną do contestingu krajowego na&amp;nbsp;tym&amp;nbsp;paśmie.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Pewną nowością - dzięki Pawłowi SQ6OXK - był start w pierwszych dla SP6PWS&amp;nbsp;zawodach w emisjach cyfrowych. Zaczęlismy ambitnie, bo od 5-tych mistrzostw Rosji &quot;&lt;a href=&quot;https://www.sp6pws.pl/62&quot; target=&quot;_blank&quot;&gt;5-th Russian EPC Contest 2013&lt;/a&gt;&quot; kt&amp;oacute;re zaczęły się 6&amp;nbsp;października 2013 o 4 UTC, gdzie przyjęliśmy strategię MiltiOperatorAllBand. Były to 24 godziny wytężonej pracy - uczenia się&amp;nbsp;nowego oprogramowania i specyfiki zawod&amp;oacute;w przy pracy emisjami cyfrowymi.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;W tym samym czasie wystartowaliśmy w &lt;a href=&quot;https://www.sp6pws.pl/65&quot; target=&quot;_blank&quot;&gt;Maratonie Jarosławskim z okazji Dnia Edukacji Narodowej&lt;/a&gt;. Były to 4 godziny zawodniczej pracy w piątek wieczorem i 3 godziny w sobotę rano. Całość w paśmie 80m.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Tydzień p&amp;oacute;źniej - bo od 14 UTC, 12 października 2013&amp;nbsp;- kolejne zawody pod patronatem European PSK Club, tym&amp;nbsp;razem nasze rodzime &quot;&lt;a href=&quot;https://www.sp6pws.pl/63&quot; target=&quot;_blank&quot;&gt;SP EPC Contest 2013&lt;/a&gt;&quot; - nie mogło nas tam zabraknąć. Kolejne zawody i po raz kolejny nasza ulubiona kategoria: MULTI OPERATOR! I tu zn&amp;oacute;w 24 godziny &quot;piszczenia&quot;, aż kładąc się spać w zaciszach domowych pieleszy słychac było w głowie &quot;fantomowe&quot; tony wywołania og&amp;oacute;lnego w BPSK63.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Aktualnie ekpia szykuje się do największych światowych zawod&amp;oacute;w CQ WW w emisji SSB oraz kilku mniejszych, krajowych. Stawiamy nowe anteny, przebudowujemy obecnie używane, aby były jeszcze lepsze.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Zapraszamy klubowicz&amp;oacute;w na &lt;a href=&quot;http://www.forum.sp6pws.pl/&quot; target=&quot;_blank&quot;&gt;forum&lt;/a&gt;, gdzie w kategorii ZAWODY, można poczytać co nieco o wszystkich eventach w&amp;nbsp;kt&amp;oacute;rych bierzemy udział, a także zapropnować udział swojej osboby w wybranych zawodach.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;73! VY de SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w zawodach QRP - XI SP QRP Contest</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/56-sp6pws-tez-popularyzuje-prace-mala-moca"/>
+		<published>2013-09-28T15:31:58+02:00</published>
+		<updated>2013-09-28T15:31:58+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/56-sp6pws-tez-popularyzuje-prace-mala-moca</id>
+		<author>
+			<name>Rafał, SQ6PNP</name>
+			<email>sq6pnp@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; background-color: #ffffff;&quot;&gt;W dniu 28.09.2013&amp;nbsp;&lt;span style=&quot;line-height: normal;&quot;&gt;Włodek SP5DDJ wraz z Grupą SP-QRP pod honorowym patronatem Prezesa PZK i Redaktora Naczelnego MK QTC zorganizowali XI SP QRP Contest - Jedenaste polskie zawody w pracy małymi mocami. Była to&amp;nbsp;doskonała okazja na przetestowanie nowej klubowej anteny, zawieszonej dokładnie tydzień przed terminem zawod&amp;oacute;w. Nasz klub SP6PWS nie marnuje okazji i spod znaku klubowego wystartował Rafał&amp;nbsp;SQ6PNP z pomocą Marcina SQ6POL w roli &quot;drugiego ucha&quot; i &lt;span style=&quot;line-height: normal;&quot;&gt;dostawcy kawy&lt;/span&gt;. Zawody trwały godzinę, a zaczęły się praktycznie w środku nocy, bo&amp;nbsp;o&amp;nbsp;si&amp;oacute;dmej rano w sobotę!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; background-color: #ffffff;&quot;&gt;Podsumowanie zawod&amp;oacute;w:&lt;br /&gt;&lt;span style=&quot;line-height: normal;&quot;&gt;Delta na 80m bez baluna działa i całe zawody pracowała bez pomocy skrzynki antenowej emitując oszołamiające 10W skompresowanej modulacji z radiostacji klubowej FT-950. Wszystko podpięte pod komputer, zautomatyzowane, zaprogamowane, skonfigurowane na najwyższym poziomie ;). Ręcznie musieliśmy jedynie logować łączności do&amp;nbsp;nieocenionego DQRLog'a, nastawiać częstotliwość selektorem impulsowym (popularnie zwane &quot;kręceniem gałą&quot;) i&amp;nbsp;oczywiście oddwać się do mikrofonu ;)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;line-height: normal;&quot;&gt;Udało się nawiązać 40 łączności z pasjonatami niskich mocy używającymi sprzętu fabrycznego oraz radiostacji własnych konstrukcji (home made TRX).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Celem było sprawdzenie sprzętu w pracy niską mocą oraz popularyzacja niskich mocy w naszym środowisku. Mamy nadzieję, że uzyskany wynik zachęci nas do dalszej pracy QRP i pr&amp;oacute;by poprawienia go w przyszłym roku.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/XI_Krajowe_zawody_QRP_-_Regulamin.pdf&quot; target=&quot;_blank&quot;&gt;Regulamin zawod&amp;oacute;w:&amp;nbsp;XI SP QRP Contest &lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_XI_SP_QRP_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawod&amp;oacute;w: XI SP QRP Contest&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;line-height: normal;&quot;&gt;SP6PWS&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; background-color: #ffffff;&quot;&gt;W dniu 28.09.2013&amp;nbsp;&lt;span style=&quot;line-height: normal;&quot;&gt;Włodek SP5DDJ wraz z Grupą SP-QRP pod honorowym patronatem Prezesa PZK i Redaktora Naczelnego MK QTC zorganizowali XI SP QRP Contest - Jedenaste polskie zawody w pracy małymi mocami. Była to&amp;nbsp;doskonała okazja na przetestowanie nowej klubowej anteny, zawieszonej dokładnie tydzień przed terminem zawod&amp;oacute;w. Nasz klub SP6PWS nie marnuje okazji i spod znaku klubowego wystartował Rafał&amp;nbsp;SQ6PNP z pomocą Marcina SQ6POL w roli &quot;drugiego ucha&quot; i &lt;span style=&quot;line-height: normal;&quot;&gt;dostawcy kawy&lt;/span&gt;. Zawody trwały godzinę, a zaczęły się praktycznie w środku nocy, bo&amp;nbsp;o&amp;nbsp;si&amp;oacute;dmej rano w sobotę!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; background-color: #ffffff;&quot;&gt;Podsumowanie zawod&amp;oacute;w:&lt;br /&gt;&lt;span style=&quot;line-height: normal;&quot;&gt;Delta na 80m bez baluna działa i całe zawody pracowała bez pomocy skrzynki antenowej emitując oszołamiające 10W skompresowanej modulacji z radiostacji klubowej FT-950. Wszystko podpięte pod komputer, zautomatyzowane, zaprogamowane, skonfigurowane na najwyższym poziomie ;). Ręcznie musieliśmy jedynie logować łączności do&amp;nbsp;nieocenionego DQRLog'a, nastawiać częstotliwość selektorem impulsowym (popularnie zwane &quot;kręceniem gałą&quot;) i&amp;nbsp;oczywiście oddwać się do mikrofonu ;)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;line-height: normal;&quot;&gt;Udało się nawiązać 40 łączności z pasjonatami niskich mocy używającymi sprzętu fabrycznego oraz radiostacji własnych konstrukcji (home made TRX).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Celem było sprawdzenie sprzętu w pracy niską mocą oraz popularyzacja niskich mocy w naszym środowisku. Mamy nadzieję, że uzyskany wynik zachęci nas do dalszej pracy QRP i pr&amp;oacute;by poprawienia go w przyszłym roku.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/XI_Krajowe_zawody_QRP_-_Regulamin.pdf&quot; target=&quot;_blank&quot;&gt;Regulamin zawod&amp;oacute;w:&amp;nbsp;XI SP QRP Contest &lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_XI_SP_QRP_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawod&amp;oacute;w: XI SP QRP Contest&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;line-height: normal;&quot;&gt;SP6PWS&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP DX Contest 2013 - wyniki.</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/55-spdxc-2013-wyniki"/>
+		<published>2013-09-28T08:23:45+02:00</published>
+		<updated>2013-09-28T08:23:45+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/55-spdxc-2013-wyniki</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Parę dni temu, bo 22 września 2013 opublikowano wyniki zawod&amp;oacute;w SP DX Contest 2013. Nie da się ukryć, że&amp;nbsp;z&amp;nbsp;niecierpliwością czekaliśmy na ten moment, ponieważ były to dla naszego Klubu pierwsze tak duże zawody i&amp;nbsp;ciekawość wyniku była ogromna.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify; margin-left: 30px;&quot;&gt;Kr&amp;oacute;tka statystyka:&lt;br /&gt;- w Polsce zajęliśmy 23 miejsce na 43 stacje w kategorii MO AB MIXED,&lt;br /&gt;- w SP6 na 107 stacji pracujących we wszystkich możliwych kategoriach zdobyliśmy 16 miejsce,&lt;br /&gt;- uznano nam 375 QSO z 406, kt&amp;oacute;re mieliśmy w logu,&lt;br /&gt;- w końcowej punktacji otrzymaliśmy 35931 pkt.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;Do usłyszenia w SP DX Contest 2014 :)&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Parę dni temu, bo 22 września 2013 opublikowano wyniki zawod&amp;oacute;w SP DX Contest 2013. Nie da się ukryć, że&amp;nbsp;z&amp;nbsp;niecierpliwością czekaliśmy na ten moment, ponieważ były to dla naszego Klubu pierwsze tak duże zawody i&amp;nbsp;ciekawość wyniku była ogromna.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify; margin-left: 30px;&quot;&gt;Kr&amp;oacute;tka statystyka:&lt;br /&gt;- w Polsce zajęliśmy 23 miejsce na 43 stacje w kategorii MO AB MIXED,&lt;br /&gt;- w SP6 na 107 stacji pracujących we wszystkich możliwych kategoriach zdobyliśmy 16 miejsce,&lt;br /&gt;- uznano nam 375 QSO z 406, kt&amp;oacute;re mieliśmy w logu,&lt;br /&gt;- w końcowej punktacji otrzymaliśmy 35931 pkt.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;Do usłyszenia w SP DX Contest 2014 :)&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w zawodach SP DX Contest 2013</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/44-sp6pws-w-zawodach-sp-dx-contest-2013"/>
+		<published>2013-04-07T18:12:31+02:00</published>
+		<updated>2013-04-07T18:12:31+02:00</updated>
+		<id>https://www.sp6pws.pl/zawody/44-sp6pws-w-zawodach-sp-dx-contest-2013</id>
+		<author>
+			<name>SQ6KOJ</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;6 kwietnia 2013 o godzinie 15:00 UTC rozpoczęła się 80-ta edycja zawodów&amp;nbsp;SP DX Contes (&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/2013_spdxc_sp.pdf&quot; target=&quot;_blank&quot;&gt;regulamin zawodów&lt;/a&gt;). Przygotowania do zawodów rozpoczeliśmy już przed południem i na 17 lokalnego czasu byliśmy gotowi do pracy. Wystartowalismy w kategorii MOAB MIXED, czyli &lt;strong&gt;MO&lt;/strong&gt;: Multi-Operator Single-Transmitter &lt;strong&gt;AB&lt;/strong&gt;: All Band &lt;strong&gt;MIXED&lt;/strong&gt;: Mixed Mode.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Operatorami podczas zawodów byli Koledzy: Damian&amp;nbsp;-&amp;nbsp;SQ9RHX, Grzegorz&amp;nbsp;-&amp;nbsp;SQ6KOJ, Marcin&amp;nbsp;-&amp;nbsp;SQ6POL, Mikołaj&amp;nbsp;-&amp;nbsp;SQ9UFC, Rafał&amp;nbsp;-&amp;nbsp;SQ6PNP i Sebastian&amp;nbsp;-&amp;nbsp;SQ6LJR.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;W ciągu 24 godzin - bo tyle trwały te zawody - w naszym logu znalazło się 406 QSO. Log został już wysłany do&amp;nbsp;organizatora i pozostaje nam już tylko czekać na wyniki.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Wydaje się, że warunki propagacyjne niestety nie dopisały, ale mimo tego słychać było dosć sporą ilość stacji spoza&amp;nbsp;SP.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Dziękujemy za spotkanie w eterze podczas tegorocznego SPDXC.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.spdxcontest.pzk.org.pl/res/2013/index.php&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów SP DX Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/55-spdxc-2013-wyniki&quot; target=&quot;_blank&quot;&gt;Podsumowanie startu SP6PWS w SP DX Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;6 kwietnia 2013 o godzinie 15:00 UTC rozpoczęła się 80-ta edycja zawodów&amp;nbsp;SP DX Contes (&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/2013_spdxc_sp.pdf&quot; target=&quot;_blank&quot;&gt;regulamin zawodów&lt;/a&gt;). Przygotowania do zawodów rozpoczeliśmy już przed południem i na 17 lokalnego czasu byliśmy gotowi do pracy. Wystartowalismy w kategorii MOAB MIXED, czyli &lt;strong&gt;MO&lt;/strong&gt;: Multi-Operator Single-Transmitter &lt;strong&gt;AB&lt;/strong&gt;: All Band &lt;strong&gt;MIXED&lt;/strong&gt;: Mixed Mode.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Operatorami podczas zawodów byli Koledzy: Damian&amp;nbsp;-&amp;nbsp;SQ9RHX, Grzegorz&amp;nbsp;-&amp;nbsp;SQ6KOJ, Marcin&amp;nbsp;-&amp;nbsp;SQ6POL, Mikołaj&amp;nbsp;-&amp;nbsp;SQ9UFC, Rafał&amp;nbsp;-&amp;nbsp;SQ6PNP i Sebastian&amp;nbsp;-&amp;nbsp;SQ6LJR.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;W ciągu 24 godzin - bo tyle trwały te zawody - w naszym logu znalazło się 406 QSO. Log został już wysłany do&amp;nbsp;organizatora i pozostaje nam już tylko czekać na wyniki.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Wydaje się, że warunki propagacyjne niestety nie dopisały, ale mimo tego słychać było dosć sporą ilość stacji spoza&amp;nbsp;SP.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Dziękujemy za spotkanie w eterze podczas tegorocznego SPDXC.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.spdxcontest.pzk.org.pl/res/2013/index.php&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów SP DX Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/55-spdxc-2013-wyniki&quot; target=&quot;_blank&quot;&gt;Podsumowanie startu SP6PWS w SP DX Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w zawodach O „PUCHAR” BURMISTRZA MIASTA JAROSŁAWIA </title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/42-sp6pws-o-puchar-burmistrza-miasta-jaroslawia-2013"/>
+		<published>2013-03-10T16:17:27+01:00</published>
+		<updated>2013-03-10T16:17:27+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/42-sp6pws-o-puchar-burmistrza-miasta-jaroslawia-2013</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Kolejny poranek - 10 marca 6:00 UTC SP6PWS znowu startuje w&amp;nbsp;trwających godzinę zawodach &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/2013_pbj.pdf&quot; target=&quot;_blank&quot;&gt;O&amp;nbsp;„PUCHAR”&amp;nbsp;BURMISTRZA&amp;nbsp;MIASTA&amp;nbsp;JAROSŁAWIA&lt;/a&gt;. Tym razem udało się zaliczyć 54 QSO w&amp;nbsp;czasie 60 minut w&amp;nbsp;kategorii:&amp;nbsp;radiostacje Klubowe. Log już został przesłany do organizatorów contestu – teraz czekamy na oficjalne podsumowanie.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_B_M_-_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów O „PUCHAR” BURMISTRZA MIASTA JAROSŁAWIA &lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Kolejny poranek - 10 marca 6:00 UTC SP6PWS znowu startuje w&amp;nbsp;trwających godzinę zawodach &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/2013_pbj.pdf&quot; target=&quot;_blank&quot;&gt;O&amp;nbsp;„PUCHAR”&amp;nbsp;BURMISTRZA&amp;nbsp;MIASTA&amp;nbsp;JAROSŁAWIA&lt;/a&gt;. Tym razem udało się zaliczyć 54 QSO w&amp;nbsp;czasie 60 minut w&amp;nbsp;kategorii:&amp;nbsp;radiostacje Klubowe. Log już został przesłany do organizatorów contestu – teraz czekamy na oficjalne podsumowanie.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_B_M_-_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów O „PUCHAR” BURMISTRZA MIASTA JAROSŁAWIA &lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w zawodach SP YL Contest </title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/41-sp6pws-sp-yl-contest-2013"/>
+		<published>2013-03-10T16:14:20+01:00</published>
+		<updated>2013-03-10T16:14:20+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/41-sp6pws-sp-yl-contest-2013</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;W sobotę 9 marca 2013 nasz Klub wziął udział w zawodach o wdzięcznej nazwie „&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/[42]spyl_2013.pdf&quot; target=&quot;_blank&quot;&gt;SP YL Contest&lt;/a&gt;” Jako, że zawody w&amp;nbsp;nazwie mają YL to operatorem stacji została Koleżanka Halina SQ6PLH. Zawody Rozpoczęły się o 6:00 UTC i&amp;nbsp;trwały do 7:00 UTC. Po godzinie pracy w kategorii Stacja klubowa z operatorem kobietą udało się zaliczyć 48 QSO. Duże podziękowania dla Haliny za wytrwałość i wolę walki.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/SP6PWS_SP_YL_2013.jpg&quot; alt=&quot;SP6PWS SP YL 2013&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/wyniki_SP_YL_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów SP YL Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;W sobotę 9 marca 2013 nasz Klub wziął udział w zawodach o wdzięcznej nazwie „&lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/[42]spyl_2013.pdf&quot; target=&quot;_blank&quot;&gt;SP YL Contest&lt;/a&gt;” Jako, że zawody w&amp;nbsp;nazwie mają YL to operatorem stacji została Koleżanka Halina SQ6PLH. Zawody Rozpoczęły się o 6:00 UTC i&amp;nbsp;trwały do 7:00 UTC. Po godzinie pracy w kategorii Stacja klubowa z operatorem kobietą udało się zaliczyć 48 QSO. Duże podziękowania dla Haliny za wytrwałość i wolę walki.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.sp6pws.pl/images/SP6PWS_SP_YL_2013.jpg&quot; alt=&quot;SP6PWS SP YL 2013&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/wyniki_SP_YL_Contest_2013.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów SP YL Contest 2013&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS w zawodach O „PUCHAR” Komendanta Hufca ZHP</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/38-zawody-o-puchar-komendanta-hufca-zhp"/>
+		<published>2013-02-10T08:24:05+01:00</published>
+		<updated>2013-02-10T08:24:05+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/38-zawody-o-puchar-komendanta-hufca-zhp</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;10 lutego 2013 o godzinie 6:00 czasu UTC wystartowaliśmy w trwających jedną godzinę zawodach O&amp;nbsp;„PUCHAR”&amp;nbsp;KOMENDANTA&amp;nbsp;HUFCA&amp;nbsp;ZHP, które zostały zorganizowane przez klub SP86ZIV &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/Regulamin_Zawodow_ZHP_2013r.pdf&quot; target=&quot;_blank&quot;&gt;(regulamin zawodów)&lt;/a&gt;. Zawody te odbyły się&amp;nbsp;w&amp;nbsp;paśmie 3,5 MHz, a dopuszczalna moc z jaką można było w nich pracować to 100W. Były to nasze drugie zawody i kolejne contestowe QSO's. Dziękujemy wszystkim za&amp;nbsp;spotkanie w&amp;nbsp;eterze mimo bądź co bądź tak wczesnej pory.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_Zawodow_ZHP-2013r.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów o &quot;Puchar Komendanta Hufca ZHP w Jarosławiu&quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;10 lutego 2013 o godzinie 6:00 czasu UTC wystartowaliśmy w trwających jedną godzinę zawodach O&amp;nbsp;„PUCHAR”&amp;nbsp;KOMENDANTA&amp;nbsp;HUFCA&amp;nbsp;ZHP, które zostały zorganizowane przez klub SP86ZIV &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/Regulamin_Zawodow_ZHP_2013r.pdf&quot; target=&quot;_blank&quot;&gt;(regulamin zawodów)&lt;/a&gt;. Zawody te odbyły się&amp;nbsp;w&amp;nbsp;paśmie 3,5 MHz, a dopuszczalna moc z jaką można było w nich pracować to 100W. Były to nasze drugie zawody i kolejne contestowe QSO's. Dziękujemy wszystkim za&amp;nbsp;spotkanie w&amp;nbsp;eterze mimo bądź co bądź tak wczesnej pory.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/Wyniki_Zawodow_ZHP-2013r.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów o &quot;Puchar Komendanta Hufca ZHP w Jarosławiu&quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+	<entry>
+		<title>SP6PWS złożył hołd Powstańcom Wielkopolskim 1918/19</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/zawody/23-sp6pws-zlozyl-hold-powstancom-wielkopolskim-1918-19"/>
+		<published>2013-01-12T10:39:27+01:00</published>
+		<updated>2013-01-12T10:39:27+01:00</updated>
+		<id>https://www.sp6pws.pl/zawody/23-sp6pws-zlozyl-hold-powstancom-wielkopolskim-1918-19</id>
+		<author>
+			<name>Rafał, SQ6PNP</name>
+			<email>sq6pnp@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;W dniu 27 grudnia 2012r. po raz kolejny odbyły się zawody HOŁD POWSTAŃCOM WIELKOPOLSKIM 1918/19 &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/regHPW_2011kor.pdf&quot; target=&quot;_blank&quot;&gt;(regulamin zawodów)&lt;/a&gt; organizowane przez Harcerski Klub Łączności „Wilda” SP3ZAC. Zawody odbywały się&amp;nbsp;w&amp;nbsp;godzinach 16:00 do 18:00 UTC. Jak w latach ubiegłych, tak i w tym roku, ze względu na duże zainteresowanie zawody podzielono na osiem kategorii:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne SSB,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje klubowe SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;nasłuchowcy,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne z terenów powstania SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne z terenów powstania SSB,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje klubowe z terenów powstania SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;nasłuchowcy z terenów powstania.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Nasz klub SP6PWS również postanowił oddać swoisty Hołd Powstańcom Wielkopolskim startując w tych zawodach. Co oczywiste wystartowaliśmy w kategorii &quot;stacje klubowe SSB i CW&quot;. Zawody cieszyły się bardzo dużym zainteresowaniem. W całym contestowym wycinku pasma 80-cio metrowego słychać było zarówno stacje telegraficzne jak i foniczne. Niestety z przyczyn niezależnych udało nam się wziąć udział jedynie w części fonicznej i&amp;nbsp;to&amp;nbsp;na&amp;nbsp;dodatek tylko przez pierwszą godzinę.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;SP6PWS zakończył zawody o godzinie 17-tej UTC z wynikiem 40 łączności, w tym 7 łączności z różnymi&amp;nbsp;powiatami objętymi Powstaniem Wielkopolskim. Wynik ten dał nam w sumie 280 punktów.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Zawody odbyły się w przyjemnej i miłej atmosferze, zarówno w klubie jak i&amp;nbsp;w&amp;nbsp;eterze. Za rok klub SP6PWS planuje wystartować w kolejnej edycji tych zawodów i&amp;nbsp;liczymy na pobicie naszego tegorocznego wyniku.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/wynikihpw2012.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów „HOŁD POWSTAŃCOM WIELKOPOLSKIM 1918/19” EDYCJA 2012&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;W dniu 27 grudnia 2012r. po raz kolejny odbyły się zawody HOŁD POWSTAŃCOM WIELKOPOLSKIM 1918/19 &lt;a href=&quot;https://www.sp6pws.pl/contests/rule/2013/regHPW_2011kor.pdf&quot; target=&quot;_blank&quot;&gt;(regulamin zawodów)&lt;/a&gt; organizowane przez Harcerski Klub Łączności „Wilda” SP3ZAC. Zawody odbywały się&amp;nbsp;w&amp;nbsp;godzinach 16:00 do 18:00 UTC. Jak w latach ubiegłych, tak i w tym roku, ze względu na duże zainteresowanie zawody podzielono na osiem kategorii:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne SSB,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje klubowe SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;nasłuchowcy,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne z terenów powstania SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje indywidualne z terenów powstania SSB,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;stacje klubowe z terenów powstania SSB i CW,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;-&amp;nbsp;nasłuchowcy z terenów powstania.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Nasz klub SP6PWS również postanowił oddać swoisty Hołd Powstańcom Wielkopolskim startując w tych zawodach. Co oczywiste wystartowaliśmy w kategorii &quot;stacje klubowe SSB i CW&quot;. Zawody cieszyły się bardzo dużym zainteresowaniem. W całym contestowym wycinku pasma 80-cio metrowego słychać było zarówno stacje telegraficzne jak i foniczne. Niestety z przyczyn niezależnych udało nam się wziąć udział jedynie w części fonicznej i&amp;nbsp;to&amp;nbsp;na&amp;nbsp;dodatek tylko przez pierwszą godzinę.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;SP6PWS zakończył zawody o godzinie 17-tej UTC z wynikiem 40 łączności, w tym 7 łączności z różnymi&amp;nbsp;powiatami objętymi Powstaniem Wielkopolskim. Wynik ten dał nam w sumie 280 punktów.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Zawody odbyły się w przyjemnej i miłej atmosferze, zarówno w klubie jak i&amp;nbsp;w&amp;nbsp;eterze. Za rok klub SP6PWS planuje wystartować w kolejnej edycji tych zawodów i&amp;nbsp;liczymy na pobicie naszego tegorocznego wyniku.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.sp6pws.pl/contests/score/2013/wynikihpw2012.pdf&quot; target=&quot;_blank&quot;&gt;Wyniki zawodów „HOŁD POWSTAŃCOM WIELKOPOLSKIM 1918/19” EDYCJA 2012&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;SP6PWS&lt;/p&gt;</content>
+		<category term="Zawody" />
+	</entry>
+</feed>

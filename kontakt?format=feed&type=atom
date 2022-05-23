@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pl-pl">
+	<title type="text">Klub krótkofalowców SP6PWS.pl - Kontakt</title>
+	<subtitle type="text">SP6PWS, HF6K, SN6G, SN6E klub krótkofalarski wrocław, krótkofalarstwo wrocław, krótkofalowcy, ham, yagi, projekty anten, kurs krótkofalarski, PZK, egzamin krótkofalarski, polski związek krótkofalowców</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.sp6pws.pl"/>
+	<id>https://www.sp6pws.pl/kontakt</id>
+	<updated>2022-05-21T16:08:04+02:00</updated>
+	<author>
+		<name>webmaster@sp6pws.pl</name>
+		<email>webmaster@sp6pws.pl</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.sp6pws.pl/kontakt?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Kontakt</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/kontakt/5-kontakt"/>
+		<published>2012-11-28T21:20:53+01:00</published>
+		<updated>2012-11-28T21:20:53+01:00</updated>
+		<id>https://www.sp6pws.pl/kontakt/5-kontakt</id>
+		<author>
+			<name>Super User</name>
+			<email>mt.gajek@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Klub Kr&amp;oacute;tkofalarski PZK SP6PWS&lt;/p&gt;
+&lt;p&gt;ul. Osadnicza 19&lt;/p&gt;
+&lt;p&gt;51-515 Wrocław&lt;/p&gt;
+&lt;p&gt;e-mail: sp6pws [malpa] sp6pws.pl&lt;/p&gt;
+&lt;p&gt;QTH Lokator: JO81nc&lt;/p&gt;
+&lt;p&gt;EPC nr: 21635&lt;/p&gt;
+&lt;p&gt;Obecny znak contestowy: SN6E&lt;/p&gt;
+&lt;p&gt;Poprzedni znak contestowy: HF6K (ważne od 26/10/2014 do 26/10/2017 - pozwolenie nr 3/T/K/R/2014)&lt;/p&gt;
+&lt;p&gt;Umowna częstotliwość klubowa: 145,425 MHz&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Klub Kr&amp;oacute;tkofalarski PZK SP6PWS&lt;/p&gt;
+&lt;p&gt;ul. Osadnicza 19&lt;/p&gt;
+&lt;p&gt;51-515 Wrocław&lt;/p&gt;
+&lt;p&gt;e-mail: sp6pws [malpa] sp6pws.pl&lt;/p&gt;
+&lt;p&gt;QTH Lokator: JO81nc&lt;/p&gt;
+&lt;p&gt;EPC nr: 21635&lt;/p&gt;
+&lt;p&gt;Obecny znak contestowy: SN6E&lt;/p&gt;
+&lt;p&gt;Poprzedni znak contestowy: HF6K (ważne od 26/10/2014 do 26/10/2017 - pozwolenie nr 3/T/K/R/2014)&lt;/p&gt;
+&lt;p&gt;Umowna częstotliwość klubowa: 145,425 MHz&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Kontakt" />
+	</entry>
+	<entry>
+		<title>Mapa</title>
+		<link rel="alternate" type="text/html" href="https://www.sp6pws.pl/kontakt/29-mapa"/>
+		<published>2013-01-24T18:57:14+01:00</published>
+		<updated>2013-01-24T18:57:14+01:00</updated>
+		<id>https://www.sp6pws.pl/kontakt/29-mapa</id>
+		<author>
+			<name>Marcin, SQ6POL</name>
+			<email>sq6pol@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div align=&quot;center&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;550&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://maps.google.pl/maps?f=q&amp;source=s_q&amp;hl=pl&amp;geocode=&amp;q=sp6pws&amp;aq=&amp;sll=51.127065,16.991864&amp;sspn=0.22193,0.479965&amp;ie=UTF8&amp;hq=sp6pws&amp;hnear=&amp;t=h&amp;ll=51.112036,17.140453&amp;spn=0.006062,0.012853&amp;z=16&amp;iwloc=A&amp;output=embed&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;small&gt;&lt;a href=&quot;http://maps.google.pl/maps?f=q&amp;source=embed&amp;hl=pl&amp;geocode=&amp;q=sp6pws&amp;aq=&amp;sll=51.127065,16.991864&amp;sspn=0.22193,0.479965&amp;ie=UTF8&amp;hq=sp6pws&amp;hnear=&amp;t=h&amp;ll=51.112036,17.140453&amp;spn=0.006062,0.012853&amp;z=16&amp;iwloc=A&quot; style=&quot;color:#cc0000;&quot;&gt;Wyświetl większą mapę&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div align=&quot;center&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;550&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://maps.google.pl/maps?f=q&amp;source=s_q&amp;hl=pl&amp;geocode=&amp;q=sp6pws&amp;aq=&amp;sll=51.127065,16.991864&amp;sspn=0.22193,0.479965&amp;ie=UTF8&amp;hq=sp6pws&amp;hnear=&amp;t=h&amp;ll=51.112036,17.140453&amp;spn=0.006062,0.012853&amp;z=16&amp;iwloc=A&amp;output=embed&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;small&gt;&lt;a href=&quot;http://maps.google.pl/maps?f=q&amp;source=embed&amp;hl=pl&amp;geocode=&amp;q=sp6pws&amp;aq=&amp;sll=51.127065,16.991864&amp;sspn=0.22193,0.479965&amp;ie=UTF8&amp;hq=sp6pws&amp;hnear=&amp;t=h&amp;ll=51.112036,17.140453&amp;spn=0.006062,0.012853&amp;z=16&amp;iwloc=A&quot; style=&quot;color:#cc0000;&quot;&gt;Wyświetl większą mapę&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Kontakt" />
+	</entry>
+</feed>
