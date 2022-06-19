@@ -1,276 +1,95 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl-pl" lang="pl-pl" dir="ltr">
-<head>
-	<base href="" />
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="spotkania klubowe SP6PWS" />
-	<meta name="description" content="SP6PWS, HF6K, SN6G, SN6E klub krótkofalarski wrocław, krótkofalarstwo wrocław, krótkofalowcy, ham, yagi, projekty anten, kurs krótkofalarski, PZK, egzamin krótkofalarski, polski związek krótkofalowców" />
-	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Klub krótkofalowców SP6PWS - Strona główna</title>
-	<link href="index.html%3Fformat=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
-	<link href="index.html%3Fformat=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
-	<link href="https://www.sp6pws.pl/templates/szablon/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"3e341c39c43362895310e5b9cf2695a8","system.paths":{"root":"","base":""}}</script>
-	<script src="https://www.sp6pws.pl/media/system/js/mootools-core.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script src="https://www.sp6pws.pl/media/system/js/core.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script src="https://www.sp6pws.pl/media/system/js/mootools-more.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script src="https://www.sp6pws.pl/media/jui/js/jquery.min.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script src="https://www.sp6pws.pl/media/jui/js/jquery-noconflict.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script src="https://www.sp6pws.pl/media/jui/js/jquery-migrate.min.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script src="https://www.sp6pws.pl/media/jui/js/bootstrap.min.js?203be1f5385515bff9e2d5f551afb735" type="text/javascript"></script>
-	<script type="text/javascript">
-jQuery(function($) {
-			 $('.hasTip').each(function() {
-				var title = $(this).attr('title');
-				if (title) {
-					var parts = title.split('::', 2);
-					var mtelement = document.id(this);
-					mtelement.store('tip:title', parts[0]);
-					mtelement.store('tip:text', parts[1]);
-				}
-			});
-			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
-		});
-jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
-	</script>
+---
+layout: default
+---
 
-	<!-- The following line loads the template CSS file located in the template folder. -->
-	<link rel="stylesheet" href="https://www.sp6pws.pl/templates/szablon/css/template.css" type="text/css" />
-
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css' />
-<script type="text/javascript" src="whcookies.js"></script>
-
-</head>
-
-
-<body id="page_bg">
-	
-  
-<div id="all2">
-
-
-
-<div class="wrapper">
-			
-			
-<div id="header">
-		<div id="logo">
-			<a href="index.html"><img src="https://www.sp6pws.pl/templates/szablon/images/logo.png" alt="Home"/></a>
-		</div>		
-
-			
-			
+<div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+        Teaser Image
+    </div>
 </div>
 
-
-			<div id="content">
-			
-			
-								<div class="maincol_w_right">
-								
-									<div class="leftcol">
-								<div class="module_menu">
-			<div>
-				<div>
-					<div>
-													<h3>Menu</h3>
-											<ul class="nav menu mod-list">
-<li class="item-101 default current active"><a href="index.html" >Strona główna</a></li><li class="item-271"><a href="harmonogram-spotkan.html" >Harmonogram spotkań</a></li><li class="item-107"><a href="aktualnosci.html" >Aktualności</a></li><li class="item-109"><a href="wydarzenia.html" >Wydarzenia</a></li><li class="item-224"><a href="zawody.html" >Zawody</a></li><li class="item-110"><a href="czlonkowie.html" >Członkowie</a></li><li class="item-126"><a href="historia.html" >Historia</a></li><li class="item-111"><a href="faq.html" >Krótkofalarski FAQ</a></li><li class="item-114"><a href="kontakt.html" >Kontakt</a></li><li class="item-172"><a href="http://www.forum.sp6pws.pl" target="_blank" rel="noopener noreferrer">Forum krótkofalarskie klubu SP6PWS</a></li><li class="item-493"><a href="https://www.facebook.com/SP6PWS/" target="_blank" rel="noopener noreferrer">SP6PWS na Facebook'u</a></li><li class="item-510"><a href="https://ot01.pzk.org.pl/" target="_blank" rel="noopener noreferrer">Strona DOT PZK OT01</a></li></ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	
-					</div>
-										
-						<div class="cont">
-						
-
-							<div id="system-message-container">
-	</div>
-
-							<div class="blog">
-
-	
-
-
-
-
-
-
-
-			<div class="items-row cols-1 row-0">
-		<div class="item column-1">
-		
-	<h2>
-					Intercontest KF	- upominek		</h2>
-
-
-
-
-
-<p style="text-align: justify;">Otrzymaliśmy dziś bardzo miłą niespodziankę.</p>
-<p><img src="https://www.sp6pws.pl/images/122898236_362767768367666_2937779695115129991_n.jpg" alt="122898236 362767768367666 2937779695115129991 n" width="400" height="525" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p style="text-align: justify;">Wystarczył jeden dobry start w CQWW aby zostać sklasyfikowanym na 2 miejscu wsp&oacute;łzawodnictwa organizowanego przez SPDX Club. Intercontest KF ma bardzo długą tradycję sięgającą roku 1972, kiedy to odbyła się pierwsza edycja tych swoistych zawod&oacute;w.</p>
-<p style="text-align: justify;">Jest nam niezmiernie miło, że doceniono nasze starania. Jednocześnie jest to dodatkowa motywacja, aby wciąż doskonalić się w sztuce oepratorskiej i startować w kolejnych zawodach - zar&oacute;wno tych dużych jak CQWW i SPDX, oraz w tych mniejszych.</p>
-
-
-<div class="item-separator"></div>
-	</div>
-						<span class="row-separator"></span>
-				</div>
-
-						<div class="items-row cols-1 row-1">
-		<div class="item column-1">
-		
-	<h2>
-					CQWW SSB 2020 			</h2>
-
-
-
-
-
-<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q" style="text-align: justify;">
-<div dir="auto"><strong>CQWW SSB 2020 Contest</strong> już coraz bliżej.</div>
-<div dir="auto">Rozpoczęliśmy już przygotowania do tej wyjątkowej imprezy, kt&oacute;ra odbędzie się w ostatni pełen weekend października. Ekipa pracująca pod znakiem SN6E już ustalona, kończymy ustalać taktykę startu w&nbsp;zawodach&nbsp;(wbrew&nbsp;pozorom jest to ważne). Powoli zabieramy się za przygotowanie sprzętu i samego klubu. Nie&nbsp;chcemy przecież niespodzianek w postaci zerwanych fider&oacute;w, czy uszkodzonych anten.</div>
-<div>&nbsp;</div>
-<div dir="auto">Pamiętajcie godzina<strong> 00:00 UTC 24.10.2020</strong> rozpoczynamy walkę o utrzymani, gdzie tam, walczymy jak zwykle o&nbsp;poprawienie naszej pozycji z poprzednich lat. A już wiemy, że nie będzie to łatwe zadanie.</div>
-<div>&nbsp;</div>
-<div dir="auto">Jeśli natomiast macie chęć dołączyć do naszej ekipy i przyczynić się do kolejnego sukcesu klubu, czy też podejrzeć jak pracuję się podczas tak dużych zawod&oacute;w zapraszamy do kontaktu.</div>
-<div>&nbsp;</div>
-</div>
-<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto" style="text-align: start;">Do usłyszenia na pasmach i dalekich łączności</div>
-<div dir="auto" style="text-align: start;">Ekipa SP6PWS</div>
-</div>
-
-
-<div class="item-separator"></div>
-	</div>
-						<span class="row-separator"></span>
-				</div>
-
-						<div class="items-row cols-1 row-2">
-		<div class="item column-1">
-		
-	<h2>
-					Oficjalne wyniki CQWW SSB 2019			</h2>
-
-
-
-
-
-<p style="text-align: justify;">Jeszcze gorące wyniki jesiennych zawod&oacute;w CQ WW SSB Contest, wciaż są dla nas dużym zaskoczeniem, a&nbsp;jednocześnie powodem do dumy.</p>
-<p style="text-align: justify;">Dzięki bardzo cięzkiej pracy grupy zapaleńc&oacute;w: SP6BLA, US6EU, UV5EOZ, SQ6PNP, SQ6POL, SP6MI udało się&nbsp;zdobyć&nbsp;<strong><span style="font-size: 12pt;">"1"&nbsp;</span></strong>miejsce w kraju,&nbsp;<span style="font-size: 12pt;"><strong>"16"</strong></span>&nbsp;w europie i&nbsp;<strong><span style="font-size: 12pt;">"26"</span></strong>&nbsp;na świecie w grupie Multi-Operator Single-Transmiter LowPower.&nbsp;</p>
-<p style="text-align: justify;">Udało się awansować aż o 10 pozycji w rankingu światowym, w stosunku do zeszłego roku.</p>
-<p><img src="https://www.sp6pws.pl/images/cqww-2019.png" alt="cqww 2018" width="657" height="494" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p style="text-align: center;"><img src="https://www.sp6pws.pl/images/Zrzut_ekranu_z_2020-04-01_20-28-57.png" alt="Zrzut ekranu z 2020 04 01 20 28 57" /></p>
-
-
-<div class="item-separator"></div>
-	</div>
-						<span class="row-separator"></span>
-				</div>
-
-						<div class="items-row cols-1 row-3">
-		<div class="item column-1">
-		
-	<h2>
-					Dolnośląska Amatorska Sieć Ratunkowa w SP6PWS			</h2>
-
-
-
-
-
-<p style="text-align: justify;">W drugą sobotę lutego, tj. 08.02.2020 o godzinie 12:00 w siedzibie naszego klubu odbędzie się spotkanie organizacyjne Dolnośląskiej Amatorskiej Sieci Ratunkowej. Podczas spotkania będzie okazja porozmawiać i&nbsp;podyskutować o sieci EmCom oraz DASR, oraz poznać nowego koordynatora sieci DASR, kt&oacute;ry przedstawi plan działania sieci na najbliższy rok.</p>
-<p style="text-align: justify;">Osobą kontaktową w razie pytań jest Marcin SP6MI</p>
-
-
-<div class="item-separator"></div>
-	</div>
-						<span class="row-separator"></span>
-				</div>
-
-						<div class="items-row cols-1 row-4">
-		<div class="item column-1">
-		
-	<h2>
-					CQWW 2018 - wyniki			</h2>
-
-
-
-
-
-<p style="text-align: justify;">Jeszcze gorące wyniki jesiennych zawod&oacute;w CQ WW SSB Contest, wciaż są dla nas dużym zaskoczeniem, a&nbsp;jednocześnie powodem do dumy.</p>
-<p style="text-align: justify;">Dzięki bardzo cięzkiej pracy grupy zapaleńc&oacute;w: SP6BLA, US6EU, SQ6POL, SQ6PNP, SQ6OXK, SP6MI, SP6-01-442 udało się zdobyć <strong><span style="font-size: 12pt;">"1"</span></strong><span style="font-size: 12pt;"></span>miejsce w kraju, <span style="font-size: 12pt;"><strong>"15"</strong></span> w europie i <strong><span style="font-size: 12pt;">"36"</span></strong> na świecie w grupie Multi-Operator Single-Transmiter LowPower.&nbsp;</p>
-<p style="text-align: justify;">Nowe anteny spisały się wyśmienicie. Ekspreymentalny morgain na pasmo 160 pomimo nie do końca optymalnego rozwieszenia pozwolił nam na&nbsp;zdobycie dodatkowych punkt&oacute;w, a beam od SP3GEM wyśmienicie pracował na&nbsp;wyższych pasmach co zaowocowało ciekawymi DX-ami.</p>
-<p><img src="https://www.sp6pws.pl/images/cqww-2018.jpg" alt="cqww 2018" width="657" height="494" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-
-
-<div class="item-separator"></div>
-	</div>
-						<span class="row-separator"></span>
-				</div>
-
-				
-
-
-
-
-	
-		<div class="pagination">
-												<p class="counter">
-								Strona 1 z 2						</p>
-
-								<ul>
-	<li class="pagination-start"><span class="pagenav">start</span></li>
-	<li class="pagination-prev"><span class="pagenav">Poprzedni artykuł</span></li>
-			<li><span class="pagenav">1</span></li>			<li><a href="index.html%3Fstart=5.html" class="pagenav">2</a></li>		<li class="pagination-next"><a title="Następny artykuł" href="index.html%3Fstart=5.html" class="hasTooltip pagenav">Następny artykuł</a></li>
-	<li class="pagination-end"><a title="koniec" href="index.html%3Fstart=5.html" class="hasTooltip pagenav">koniec</a></li>
-</ul>
-		</div>
-
-</div>
-
-							
-						</div>
-					
-								<div class="clr"></div>
-				</div>
-			</div>
-
-
-			
-	</div>
-</div>
-
-
-
-<div id="footer">
-		   <div id="footer-in">
-					<div class="module">
-			<div>
-				<div>
-					<div>
-											
-
-<div class="custom"  >
-	<p style="text-align: center;"><span style="color: #808080;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="color: #808080;">designed by: <a href="http://www.cool-web.pl/"><span style="color: #808080;">cool-web.pl</span></a></span><br /> <span style="color: #808080;"><span style="color: #808080;">webmaster(at)sp6pws.pl</span></span></p></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	
-		   </div>
-		 
-		   	
-</div>
-
-                                                                                                                                      
-
-                                                                                                                                                                                           	
-
-</body>
-</html>
+<header class="blog-header">
+    {% if site.logo %}
+      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
+    {% endif %}
+    <h1 class="blog-title">{{ site.title }}</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <div class="custom-links">
+      {% for social in site.social %}
+        {% if social.url %}
+            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+              <i class="fa fa-{{ social.icon }}"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        {% endif %}
+      {% endfor %}
+      <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
+    </div>
+</header>
+
+
+<main class="content" role="main">
+
+    {% if site.tags.featured %}
+    <h5 class="index-headline featured"><span>Featured</span></h5>
+
+    <div class="container featured">
+      {% for post in site.tags.featured %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+
+    <h5 class="index-headline normal"><span>Regular</span></h5>
+    {% endif %}
+
+    <div class="cf frame">
+      {% for post in paginator.posts %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+
+    <nav class="pagination" role="navigation">
+      {% if paginator.next_page %}
+        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
+      {% endif %}
+      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
+        {% else %}
+          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>Newer posts &rarr;</a>
+        {% endif %}
+      {% endif %}
+    </nav>
+
+
+    <!-- {{!! After all the posts, we have the previous/next pagination links }}
+    {{pagination}} -->
+
+</main>
