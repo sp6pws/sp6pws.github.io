@@ -1,81 +1,78 @@
-# Pelican on GitLab Pages
+mediator
+========
 
-Example [Pelican] website using GitLab Pages. Check the resulting website here: <https://pages.gitlab.io/pelican>
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
+[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
-Learn more about [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and the [official
-documentation](https://docs.gitlab.com/ce/user/project/pages/), including
-[how to fork a project like this one to get started](https://docs.gitlab.com/ee/user/project/pages/getting_started_part_two.html#fork-a-project-to-get-started-from).
+Screenshots
+--------
+![screenshot](/assets/images/screenshot1.jpg)
+![screenshot](/assets/images/screenshot2.jpg)
+![screenshot](/assets/images/screenshot3.jpg)
 
+Features
+-------
+* Fully Responsive layout
+* Use header images in articles, if you want to (add tag "image" and url to the image in the front matter section of a post)
+* Minimal design
+* Featured article support
+* FontAwesome implemented for easy use of icons fonts
+* Free & Open Source Font usage
+
+Getting Started
 ---
+- [Fork this repository](https://github.com/dirkfabisch/mediator)
+- Clone it: `git clone https://github.com/YOUR-USER/mediator`
+- Install the requried gems ([GitHub Pages](https://github.com/github/pages-gem), [Bourbon](https://github.com/thoughtbot/bourbon) and [Jekyll](https://github.com/jekyll/jekyll), [Jemoji](https://github.com/jekyll/jemoji)): `bundle install`
+- Run the jekyll server: `bundle exec jekyll serve`
 
-## GitLab CI
+You should have a server up and running locally at <http://localhost:4000>.
 
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in the file [`.gitlab-ci.yml`](.gitlab-ci.yml).
+Configuration
+-----
 
-## Building locally
+The main settings happen in side of the _config.yml file:
 
-To work locally with this project, you'll have to follow the steps below:
+### Site
 
-1. Fork, clone or download this project
-1. [Install][] Pelican
-1. Regenerate and serve on port 8000: `make devserver`
-1. Add content
+Main settings for the site
 
-Read more at Pelican's [documentation].
+* **title**: name of your site
+* **description**: description of your site
+* **logo**: small logo for the site (300x * 300x)
+* **cover**: large background image on the index page
 
-## GitLab User or Group Pages
+* **name**: name site owner
+* **email**: mail address of the site owner
+* **author**: author name
+* **author_image**: small image of author (300x * 300px)
+* **disqus**: add a disqus forum for your post
 
-To use this project as your user/group website, you will need to perform
-some additional steps:
+### Social
 
-1. Rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings > General (Advanced)**.
+The template allows to add all major social platforms to your site.
+Fill the the form for each platform. If you leave the share_* entries empty, the sharing buttons below a post are not shown.  If you leave the **url** and **desc** empty the icons are not shown on the index page, but the share icons on the article pages remains untouched (Thanks to [Phil](https://github.com/philsturgeon))
 
-2. Adjust Pelican's `SITEURL` configuration setting in `publishconf.py` to
-the new URL (e.g. `https://namespace.gitlab.io`)
+* **icon**:	name of social platform (must match a name of [font-awsome](http://fortawesome.github.io/Font-Awesome/) icon set )
+* **url**:	url of your account
+* **desc**: slogan of the platform
+* **share_url**: share url
+* **share_title**: first part of url for the title
+* **share_link**: second part of the share url for the link to the post
 
-Read more about [GitLab Pages for projects and user/group websites][pagesdoc].
+The Liquid template engine will magical combine the different parts to a share url.
 
-## Use a custom theme
+```
+http://twitter.com/share?text=post_title&amp;url=post_url
+````
 
-To use a custom theme:
+See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.yml) for more examples.
 
-1. Visit <https://github.com/getpelican/pelican-themes> and pick the name of
-   the theme you want to use.
-1. Uncomment the following lines from `.gitlab-ci.yml`, replacing `<theme_name>`
-   with the name of the theme you chose:
+Licensing
+---------
 
-   ```yaml
-   - svn export https://github.com/getpelican/pelican-themes/trunk/<theme-name> /tmp/<theme-name>
-   - pelican-themes --install /tmp/<theme-name>
-   ```
+[MIT](https://github.com/dirkfabisch/mediator/blob/master/LICENCE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
 
-1. Edit `pelicanconf.py` and add the theme:
-
-   ```plaintext
-   THEME = '/tmp/<theme-name>'
-   ```
-
-For more information, see the discussion in [issue #1](https://gitlab.com/pages/pelican/-/issues/1).
-
-## Did you fork this project?
-
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
-
-## Troubleshooting
-
-1. CSS is missing! That means two things:
-
-    Either that you have wrongly set up the CSS URL in your templates, or
-    your static generator has a configuration option that needs to be explicitly
-    set in order to serve static assets under a relative URL.
-
-[ci]: https://about.gitlab.com/gitlab-ci/
-[pelican]: http://blog.getpelican.com/
-[install]: https://docs.getpelican.com/en/stable/install.html
-[documentation]: http://docs.getpelican.com/
-[pagesdoc]: https://docs.gitlab.com/ce/user/project/pages/getting_started_part_one.html
+Contact
+-------
+I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
