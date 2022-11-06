@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'GitLab'
-SITENAME = 'Example Pelican website using GitLab Pages!'
+AUTHOR = 'GitHub'
+SITENAME = 'Wrocławski Klub Krótkofalowców SP6PWS'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Athens'
+TIMEZONE = 'Europe/Warsaw'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'pl'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
