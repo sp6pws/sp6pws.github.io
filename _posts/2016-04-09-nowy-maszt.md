@@ -3,7 +3,7 @@ layout: post
 title:  "Witamy na nowej stronie!"
 date:   2016-04-09 14:34:25
 categories: Klub
-image: /assets/images/anteny_poziom.jpg
+image: /assets/article_images/2016-04-09/1.jpg
 ---
 Wiosna to co roku dla wielu z nas oczekiwany czas na nowe postanowienie i przedsięwzięcia. Nasz klub też z okresem
 wiosennym zakasał rękawy do pracy. Nasze pierwsze wiosenne postanowienie to wymiana masztu pod naszą GP7DX. Stary maszt
@@ -18,7 +18,3 @@ maszt.
 W dzisiejszą sobotę, pomimo lekkiego deszczu, nasze przedsięwzięcie nabrało ostatecznego kształtu.
 
 Efekty naszych prac wyglądają tak:
-
-![Nowy maszt - ujęcie pierwsze]({attach}/assets/article_images/2016-04-09/1.jpg)
-
-![Nowy maszt - ujęcie drugie]({attach}/assets/article_images/2016-04-09/2.jpg)
