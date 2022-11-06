@@ -25,4 +25,5 @@ image: /assets/images/2cw.jpg
 | Wrzesień    | 10, 24         |
 | Październik | 8, 22          |
 | Listopad    | 5, 19          |
-| Grudzień    | 3, 17          || Grudzień    | 3, 17          |
+| Grudzień    | 3, 17          |
+| Grudzień    | 3, 17          |
