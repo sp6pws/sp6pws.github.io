@@ -3,7 +3,7 @@ layout: post
 title:  "Członkowie SP6PWS"
 date:   2022-11-06 14:34:25
 categories: Klub
-image: /assets/images/2cw.jpg
+image: /assets/images/anteny_poziom.jpg
 ---
 
 ### Stan na wiosnę 2022

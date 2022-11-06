@@ -2,7 +2,7 @@
 layout: page
 title: O klubie
 permalink: /about/
-image: /assets/images/2cw.jpg
+image: /assets/images/anteny_poziom.jpg
 ---
 
 Kiedy w naszych głowach rodził się pomysł na stworzenie klubu krótkofalarskiego nikt jeszcze nie myślał, że kilka miesięcy później stanie się to rzeczywistością. Historia zaczęła się w 2012 roku na jakiś miesiąc przed spotkaniem krótkofalowców ŁOŚ 2012. Było nas wówczas trzech: Rafał SQ6PNP, Marcin SQ6POL, Grzegorz SQ6RKP. Pomysł stworzenia klubu we Wrocławiu wyszedł od tego ostatniego - tak jakoś spontanicznie. Od jakiegoś już czasu mieliśmy ze sobą dobry kontakt i udawało nam się organizować wspólne wyjazdy gdzie realizowaliśmy swoje radiowe pasje. Do tego jeszcze wspierali nas Koledzy Sebastian SQ6LJR i Mariusz SQ6KPV i skoro już powstała grupa ludzi połączonych wspólną pasją, szybko podłapaliśmy pomysł rzucony przez Grzegorza. Podczas spotkania ŁOŚ 2012 wszystko zaczęło się klarować. Postanowiliśmy, że za rok na tej samej górce chcemy być obecni zjednoczeni znakiem klubowym. 20 października 2012r. podjęliśmy uchwałę o jego założeniu.
