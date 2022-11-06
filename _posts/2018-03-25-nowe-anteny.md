@@ -12,3 +12,6 @@ elementów na 2m i jeszcze wyżej, niczym wisienka na torcie, mała pionowa ante
 
 Tu należy się zatrzymać w tej radości i podziękować WSZYSTKIM, którzy pomogli w tym przedsięwzięciu. Nie będziemy
 wymieniali z imienia, ale Dziękujemy! No to do spotkania w eterze 😁
+
+![Ujęcie 1](/assets/article_images/2018-03-25/1.jpg)
+![Ujęcie 2](/assets/article_images/2018-03-25/2.jpg)
