@@ -53,21 +53,7 @@
           <a name="topofpage"></a>
           {{content}}
         </section>
-        <footer class="post-footer">
-          <!-- <section class="share"> -->
-            <!-- {% for social in site.social %}
-              {% if social.share_url != null %}
-                <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{% if social.share_title %}{{ social.share_title }}{{page.title | cgi_escape}}{% endif %}{{ social.share_link }}{{site.url}}{{site.baseurl}}{{page.id}}"
-                  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-                <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
-                </a>
-              {% endif %}
-            {% endfor %} -->
-            <div class="inner">
-              <a href={{ "/" | prepend: site.baseurl }} class="btn">Powrót na główną</a>
-            </div>
-          <!-- </section> -->
-        </footer>
+
         <div class="bottom-teaser cf">
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Autor</span></h5>
@@ -109,9 +95,10 @@
         Image
       </div>
       <div class="inner">
+        <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a>
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
-        <!-- <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a> -->
+        
       </div>
     </div>
     {% include javascripts.html %}
