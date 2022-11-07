@@ -68,13 +68,14 @@
         <div class="bottom-teaser cf">
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Autor</span></h5>
-            <section class="author">
+            <h4>{{ site.author }}</h4>
+            <!-- <section class="author"> -->
               <!-- <div class="author-image" style="background-image: url({{site.author_image | prepend: site.baseurl}})">SP6PWS</div> -->
-              <h4>{{ site.author }}</h4>
+              
               <!-- <p class="bio">{{author.bio}}</p> -->
               <hr>
               <p class="published">Opublikowano <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-            </section>
+            <!-- </section> -->
           </div>
           {{/post}}
           <div class="isRight">
