@@ -10,8 +10,7 @@ Drugiego grudnia 2012 r. o godzinie 10 UTC znak naszego Klubu pojawił się w et
 
 ### Log z dzisiejszego dnia:
 
-| Lp. | Znak               | Częstotliwość | Raport          | Godzina |
-|     | Korespondenta      |               | Odebrany        |         |
+| Lp. | Znak Korespondenta | Częstotliwość | Raport Odebrany | Godzina |
 |:---:|:------------------:|:--------------|:---------------:|:-------:|
 | 1   | SP2IQT             | 3,714         | 59              | 10:01   |
 | 2   | SQ6NTL             | 145,425       | 59+20           | 10:01   |
