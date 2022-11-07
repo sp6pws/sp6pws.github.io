@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Witamy na nowej stronie!"
+title:  "Nowy maszt pod GP7"
 date:   2016-04-09 14:34:25
 categories: Klub
 image: /assets/images/anteny_poziom.jpg
