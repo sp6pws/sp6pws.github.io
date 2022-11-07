@@ -55,27 +55,23 @@
         </section>
         <footer class="post-footer">
           <section class="share">
-            {% for social in site.social %}
+            <!-- {% for social in site.social %}
               {% if social.share_url != null %}
                 <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{% if social.share_title %}{{ social.share_title }}{{page.title | cgi_escape}}{% endif %}{{ social.share_link }}{{site.url}}{{site.baseurl}}{{page.id}}"
                   onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
                 <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
                 </a>
               {% endif %}
-            {% endfor %}
+            {% endfor %} -->
+            <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a>
           </section>
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Autor</span></h5>
             <h4>{{ site.author }}</h4>
-            <!-- <section class="author"> -->
-              <!-- <div class="author-image" style="background-image: url({{site.author_image | prepend: site.baseurl}})">SP6PWS</div> -->
-              
-              <!-- <p class="bio">{{author.bio}}</p> -->
-              <hr>
-              <p class="published">Opublikowano <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-            <!-- </section> -->
+            <hr>
+            <p class="published">Opublikowano <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
           </div>
           {{/post}}
           <div class="isRight">
@@ -113,7 +109,7 @@
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
-        <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a>
+        <!-- <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a> -->
       </div>
     </div>
     {% include javascripts.html %}
