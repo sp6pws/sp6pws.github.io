@@ -12,18 +12,18 @@ image: /assets/images/anteny_poziom.jpg
 
 ### Harmonogram na rok 2022
 
-| Miesiąc     | Data spotkania |
-|-------------|----------------|
-| Styczeń     | 15, 29         |
-| Luty        | 12, 26         |
-| Marzec      | 12, 26         |
-| Kwiecień    | 9, 23          |
-| Maj         | 7, 21          |
-| Czerwiec    | 5, 18          |
-| Lipiec      | 2, 16, 30      |
-| Sierpień    | 20, 27         |
-| Wrzesień    | 10, 24         |
-| Październik | 8, 22          |
-| Listopad    | 5, 19          |
-| Grudzień    | 3, 17          |
-| Grudzień    | 3, 17          |
+| Miesiąc       | Data spotkania   |
+|:-------------:|:----------------:|
+| Styczeń       | 15, 29           |
+| Luty          | 12, 26           |
+| Marzec        | 12, 26           |
+| Kwiecień      | 9, 23            |
+| Maj           | 7, 21            |
+| Czerwiec      | 5, 18            |
+| Lipiec        | 2, 16, 30        |
+| Sierpień      | 20, 27           |
+| Wrzesień      | 10, 24           |
+| Październik   | 8, 22            |
+| Listopad      | 5, 19            |
+| Grudzień      | 3, 17            |
+| Grudzień      | 3, 17            |
