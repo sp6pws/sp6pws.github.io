@@ -9,6 +9,7 @@ image: /assets/images/anteny_poziom.jpg
 Drugiego grudnia 2012 r. o godzinie 10 UTC znak naszego Klubu pojawił się w eterze. W pierwszej kolejności zaczęliśmy pracę na 2 i 80 metrach. Później zmieniliśmy pasmo na 40 metrów, 20 metrów. Cieszy nas bardzo, że korespondenci dopisali i możemy z czystym sumieniem powiedzieć, że znak SP6PWS zaistniał na pasmach. Zakończyliśmy pracę o godzinie 14.05 UTC. Łącznie zrobiliśmy 113 QSO. Dziękujemy wszystkim za spotkanie.
 
 ### Log z dzisiejszego dnia:
+
 | Lp. | Znak Korespondenta | Częstotliwość | Raport Odebrany | Godzina |
 |:---:|:------------------:|:-------------:|:---------------:|:-------:|
 | 1   | SP2IQT             | 3,714         | 59              | 10:01   |
