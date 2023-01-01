@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Harmonogram spotkań"
-date:   2022-11-06 14:34:25
+date:   2023-01-02 08:34:25
 categories: Spotkania
 tags: featured
 image: /assets/images/anteny_poziom.jpg
@@ -16,15 +16,15 @@ image: /assets/images/anteny_poziom.jpg
 
 | **Miesiąc**       | **Data spotkania** |
 |:-----------------:|:------------------:|
-| **Styczeń**       | *15, 29*           |
-| **Luty**          | *12, 26*           |
-| **Marzec**        | *12, 26*           |
-| **Kwiecień**      | *9, 23*            |
-| **Maj**           | *7, 21*            |
-| **Czerwiec**      | *5, 18*            |
-| **Lipiec**        | *2, 16, 30*        |
-| **Sierpień**      | *20, 27*           |
-| **Wrzesień**      | *10, 24*           |
-| **Październik**   | *8, 22*            |
-| **Listopad**      | *5, 19*            |
-| **Grudzień**      | *3, 17*            |
+| **Styczeń**       | *14, 29*           |
+| **Luty**          | *11, 26*           |
+| **Marzec**        | *11, 26*           |
+| **Kwiecień**      | *8, 23*            |
+| **Maj**           | *6, 21*            |
+| **Czerwiec**      | *3, 18*            |
+| **Lipiec**        | *1, 16, 29*        |
+| **Sierpień**      | *12, 27*           |
+| **Wrzesień**      | *9, 24*            |
+| **Październik**   | *7, 22*            |
+| **Listopad**      | *4, 19*            |
+| **Grudzień**      | *2, 17*            |
