@@ -1,5 +1,5 @@
 # Build settings
-plugins:
+gems:
   - jemoji
   - jekyll-paginate
 
