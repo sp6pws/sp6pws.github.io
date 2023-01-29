@@ -12,7 +12,7 @@ image: /assets/images/anteny_poziom.jpg
 *Wszelkie dodatkowe terminy spotkań, zmiany w już zaplanowanych spotkaniach będą publikowane tutaj oraz na naszym profilu na fb*
 
 
-#### Harmonogram na rok 2022
+#### Harmonogram na rok 2023
 
 | **Miesiąc**       | **Data spotkania** |
 |:-----------------:|:------------------:|
