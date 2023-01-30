@@ -28,3 +28,6 @@ image: /assets/images/anteny_poziom.jpg
 | **Październik**   | *7, 22*            |
 | **Listopad**      | *4, 19*            |
 | **Grudzień**      | *2, 17*            |
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&src=Zjg5OG9ib2xmdXUwdm0zNmZ0MmxqODFkOThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
