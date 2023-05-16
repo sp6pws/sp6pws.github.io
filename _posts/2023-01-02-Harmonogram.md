@@ -6,7 +6,7 @@ categories: Spotkania
 tags: featured
 image: /assets/images/anteny_poziom.jpg
 ---
-### Spotkania klubowe odbywają się co drugi tydzień, testowo raz w sobotę raz w niedzielę od godziny 15:00 (czasu lokalnego).
+### Spotkania klubowe odbywają się co drugi tydzień w sobotę, od godziny 15:00 (czasu lokalnego).
 
 
 *Wszelkie dodatkowe terminy spotkań, zmiany w już zaplanowanych spotkaniach będą publikowane tutaj oraz na naszym profilu na fb*
@@ -20,11 +20,11 @@ image: /assets/images/anteny_poziom.jpg
 | **Luty**          | *11, 26*           |
 | **Marzec**        | *11, 26*           |
 | **Kwiecień**      | *8, 23*            |
-| **Maj**           | *6, 21*            |
-| **Czerwiec**      | *3, 18*            |
-| **Lipiec**        | *1, 16, 29*        |
-| **Sierpień**      | *12, 27*           |
-| **Wrzesień**      | *9, 24*            |
-| **Październik**   | *7, 22*            |
-| **Listopad**      | *4, 19*            |
-| **Grudzień**      | *2, 17*            |
+| **Maj**           | *6, 20*            |
+| **Czerwiec**      | *3, 17*            |
+| **Lipiec**        | *1, 15, 29*        |
+| **Sierpień**      | *12, 26*           |
+| **Wrzesień**      | *9, 23*            |
+| **Październik**   | *7, 21*            |
+| **Listopad**      | *4, 18*            |
+| **Grudzień**      | *2, 16*            |
