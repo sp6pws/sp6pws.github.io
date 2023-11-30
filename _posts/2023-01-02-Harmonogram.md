@@ -27,4 +27,4 @@ image: /assets/images/anteny_poziom.jpg
 | **Wrzesień**      | *9, 23*            ||
 | **Październik**   | *7, 21*            ||
 | **Listopad**      | *4, 18*            |*ZAMIANA Z 18.11 NA 19.11*|
-| **Grudzień**      | *2, 16*            ||
+| **Grudzień**      | *2, 16*            |*ODWOŁANE SPOTKANIE 2.12*|
