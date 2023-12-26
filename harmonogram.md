@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "Spotkania klubowe - harmonogram"
-date:   2023-12-26 09:05:00
-categories: Spotkania
-tags: featured
+layout: page
+title: Harmonogram
+permalink: /harmonogram/
 image: /assets/images/anteny_poziom.jpg
 ---
 ### Spotkania klubowe odbywają się co drugi tydzień w sobotę, od godziny 15:00 (czasu lokalnego).
@@ -15,8 +13,8 @@ Dodatkowo wybrane informacje o wydarzeniach klubowych pojawiają się na APRS*
 
 #### Harmonogram na rok 2024
 
-| **Miesiąc**       | | |  |**UWAGI**|
-|-----		    |-----:|-----:|-----:|-----  |
+| **Miesiąc**       | | |  ||
+|-----              |-----:|-----:|-----:|-----  |
 | **Styczeń**       | *13*, | *27*  |      |       |
 | **Luty**          | *10*, | *24*  |      |       |
 | **Marzec**        | *9*,  | *23*  |      |       |
@@ -29,3 +27,5 @@ Dodatkowo wybrane informacje o wydarzeniach klubowych pojawiają się na APRS*
 | **Październik**   | *5*,  | *19*  |      |       |
 | **Listopad**      | *2*,  | *16*, | *30* |       |
 | **Grudzień**      | *14*  |       |      |       |
+
+
