@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spotkania klubowe - harmonogram"
-date:   2023-12-26 09:00
+date:   2023-12-26 09:05:00
 categories: Spotkania
 tags: featured
 image: /assets/images/anteny_poziom.jpg
