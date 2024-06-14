@@ -17,7 +17,7 @@ Dodatkowo wybrane informacje o wydarzeniach klubowych pojawiają się na APRS*
 
 | **Miesiąc**       | | |  |**UWAGI**|
 |-----		    |-----:|-----:|-----:|-----  |
-| **Styczeń**       | *13*, | *27*  |      |       |
+| **Styczeń**       | *13*, | *27*  |      |   ** 13, 27 - spotkanie odwołane **  |
 | **Luty**          | *10*, | *24*  |      |       |
 | **Marzec**        | *9*,  | *23*  |      |       |
 | **Kwiecień**      | *6*,  | *20*  |      |       |
