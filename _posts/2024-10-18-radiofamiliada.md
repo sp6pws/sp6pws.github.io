@@ -16,7 +16,6 @@ Zabawa ma charakter wybitnie lokalny i uczestnikami mogą zostać wszyscy, któr
 Zasady zabawy na [stronie Radiofamiliady](/radiofamiliada).
 
 Październikowa edycja odbędzie się:
- - w Chrząstawie Wielkiej w okolicach ulicy Aroniowej
  - w Jelczu-Laskowicach w okolicach ulicy ...
  - w Nadolicach Wielkich w okolicach ulicy Młyńskiej
 
@@ -25,3 +24,4 @@ Zachęcamy radiooperatorów do uczestnictwa zabawy w swojej okolicy. Wyślij nam
  - plakat do wydrukowania
  - obrazek do zamieszczenia na stronie internetowej / Facebook
 
+Jeśli ktoś z Was będzie chciał zorganizować podobną zabawę w swojej okolicy prosimy o kontakt mailowy. Pomożemy.
