@@ -15,9 +15,9 @@ Zabawa ma charakter wybitnie lokalny i uczestnikami mogą zostać wszyscy, któr
 
 Zasady zabawy na [stronie Radiofamiliady](/radiofamiliada).
 
-Październikowa edycja odbędzie się:
- - w Jelczu-Laskowicach w okolicach ulicy ...
- - w Nadolicach Wielkich w okolicach ulicy Młyńskiej
+Październikowa edycja odbędzie się w:
+ - Jelczu-Laskowicach, ul. Irysowa i okoliczne
+ - Nadolicach Wielkich, ul. Młyńska i okoliczne
 
 Zachęcamy radiooperatorów do uczestnictwa zabawy w swojej okolicy. Wyślij nam maila, dostaniesz komplet materiałów zawierający:
  - zestaw pytań
@@ -25,3 +25,5 @@ Zachęcamy radiooperatorów do uczestnictwa zabawy w swojej okolicy. Wyślij nam
  - obrazek do zamieszczenia na stronie internetowej / Facebook
 
 Jeśli ktoś z Was będzie chciał zorganizować podobną zabawę w swojej okolicy prosimy o kontakt mailowy. Pomożemy.
+
+Słyszymy się już w piątek, 25 października o godzinie 18!
